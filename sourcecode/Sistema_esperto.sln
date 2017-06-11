@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_esperto", "Sistema_esperto\Sistema_esperto.csproj", "{196B8031-FED4-44C1-A4C0-01F69F144CF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196B8031-FED4-44C1-A4C0-01F69F144CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196B8031-FED4-44C1-A4C0-01F69F144CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196B8031-FED4-44C1-A4C0-01F69F144CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196B8031-FED4-44C1-A4C0-01F69F144CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

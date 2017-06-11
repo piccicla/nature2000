@@ -1,0 +1,750 @@
+BODY {
+	FONT-SIZE: 100%; box-sizing: border-box; moz-box-sizing: border-box
+}
+TABLE {
+	FONT-SIZE: 100%; box-sizing: border-box; moz-box-sizing: border-box
+}
+BODY {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+FORM {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TABLE {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+BUTTON {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 1em
+}
+SELECT {
+	FONT-SIZE: 1em
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 1.3em
+}
+H2 {
+	FONT-SIZE: 0.95em
+}
+H4 {
+	FONT-SIZE: 0.8em; MARGIN-BOTTOM: 0.3em
+}
+H5 {
+	FONT-SIZE: 0.8em; MARGIN-BOTTOM: 5px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+A IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+P {
+	FONT-SIZE: 0.7em; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 1.3em
+}
+UL {
+	MARGIN-TOP: 0.3em; MARGIN-BOTTOM: 0.3em
+}
+OL {
+	MARGIN-TOP: 0.3em; MARGIN-BOTTOM: 0.3em
+}
+LI {
+	PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+HR {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: -3px 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #e2e2e4 1px solid; HEIGHT: 1px
+}
+DIV.pageMargin {
+	MARGIN: 20px 20px 50px
+}
+A {
+	COLOR: #0033cc
+}
+A:link {
+	COLOR: #0033cc
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #ff6600
+}
+A:hover {
+	COLOR: #ff6600
+}
+OPTION.disabled {
+	COLOR: #808080
+}
+.mnpMenuRow A {
+	COLOR: #000000
+}
+#quicksearch {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BACKGROUND: #f1f1f1; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid
+}
+DIV#quicksearch SPAN {
+	MARGIN: 0px 2px
+}
+DIV#quicksearch INPUT {
+	MARGIN: 0px 2px
+}
+DIV#quicksearch SELECT {
+	MARGIN: 0px 2px
+}
+DIV#quicksearch A {
+	MARGIN: 0px 2px
+}
+DIV#quicksearch A {
+	MARGIN-LEFT: 10px
+}
+DIV#quicksearch .textinput {
+	WIDTH: 190px
+}
+DIV#quicksearch SPAN {
+	WHITE-SPACE: nowrap
+}
+DIV#quicksearch LABEL {
+	WHITE-SPACE: nowrap
+}
+DIV#quicksearch TD {
+	FONT-SIZE: 0.7em; VERTICAL-ALIGN: baseline; LINE-HEIGHT: 1.5em
+}
+.searchBtn {
+	FONT-SIZE: 1em
+}
+DIV#homeBack {
+	BACKGROUND: #c4c9d6
+}
+DIV#home DIV.pageMargin {
+	MARGIN-TOP: -10px
+}
+DIV#home {
+	BORDER-RIGHT: #999999 1px solid; BACKGROUND: #ffffff; WIDTH: 587px; HEIGHT: 100%
+}
+DIV#home H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; BORDER-BOTTOM: #e2e2e4 1px solid
+}
+DIV.popular {
+	MARGIN: 0px 0px 1.2em
+}
+DIV.popular P {
+	FONT-WEIGHT: bold; MARGIN: 4px 0px 0px
+}
+DIV.popular OL {
+	FONT-SIZE: 0.7em; MARGIN-BOTTOM: 0px
+}
+DIV#prodCatList H5 {
+	FONT-SIZE: 0.7em
+}
+DIV#prodCatList P {
+	FONT-SIZE: 0.7em; MARGIN: 1px auto 10px; LINE-HEIGHT: 1.25em
+}
+DIV#prodCatList A {
+	FONT-SIZE: 0.7em
+}
+DIV#prodCatList TABLE {
+	MARGIN: 0px 10px
+}
+DIV#prodCatList TD {
+	VERTICAL-ALIGN: top; WIDTH: 50%
+}
+DIV#prodCatList TD.space {
+	PADDING-RIGHT: 39px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 0px; PADDING-TOP: 0px
+}
+#nh {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 9px; WIDTH: 587px; COLOR: #ffffff; PADDING-TOP: 8px; BACKGROUND-COLOR: #1f1f1f
+}
+#nh SPAN {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 11px; COLOR: #ff3300
+}
+#nh A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#nh A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+#nh A:hover {
+	TEXT-DECORATION: underline
+}
+DIV#collection {
+	BACKGROUND: #999999
+}
+DIV#herostory3part {
+	HEIGHT: 203px
+}
+DIV#herostory3part TABLE {
+	BACKGROUND: none transparent scroll repeat 0% 0%; MARGIN: -1px
+}
+.mainhero {
+	BORDER-RIGHT: white 1px solid
+}
+.sub1hero {
+	BORDER-LEFT: white 1px solid
+}
+.sub2hero {
+	BORDER-LEFT: white 1px solid
+}
+.sub1hero {
+	BORDER-BOTTOM: white 1px solid
+}
+.sub2hero {
+	BORDER-TOP: white 1px solid
+}
+DIV#CollectionHeader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 20px 20px 30px; PADDING-TOP: 0px
+}
+DIV#CollectionHeader H1 {
+	FONT-WEIGHT: normal; MARGIN: 0px; WIDTH: auto; HEIGHT: 31px; max-height: 31px
+}
+DIV#CollectionHeader P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#collectionDefault DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 17px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: static
+}
+DIV#collectionDefault H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 2.25em; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #000066; PADDING-TOP: 22px
+}
+DIV#collectionDefault H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 0px; POSITION: relative; TOP: -4px
+}
+DIV#collectionDefault P {
+	MARGIN-TOP: 0px; PADDING-LEFT: 20px
+}
+DIV#dcTopDivider {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../../img/shelf.gif) #999999 repeat-x 50% bottom; PADDING-BOTTOM: 12px; PADDING-TOP: 0px
+}
+DIV.feature {
+	MIN-HEIGHT: 65px; MARGIN: 15px 5px 30px 0px; ZOOM: 1
+}
+DIV.feature IMG.ad {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+DIV.feature P {
+	MARGIN: 5px 0px 0px
+}
+DIV.feature A {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.7em
+}
+.topCorners {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; PADDING-TOP: 0px; HEIGHT: 5px
+}
+.bottomCorners {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; PADDING-TOP: 0px; HEIGHT: 5px
+}
+.topCorners  {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 1px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; LINE-HEIGHT: 1px; PADDING-TOP: 0px; HEIGHT: 1px
+}
+.bottomCorners  {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 1px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; LINE-HEIGHT: 1px; PADDING-TOP: 0px; HEIGHT: 1px
+}
+.l1 {
+	MARGIN: 0px 5px
+}
+.l2 {
+	MARGIN: 0px 3px
+}
+.l3 {
+	MARGIN: 0px 2px
+}
+.l4 {
+	MARGIN: 0px 1px; HEIGHT: 2px
+}
+.styledPanel {
+	ZOOM: 1
+}
+#recommended {
+	CLEAR: both; MARGIN: 1.32em 0px auto -10px
+}
+#browse #recommended {
+	MARGIN-RIGHT: -10px
+}
+#recommended OL {
+	FONT-SIZE: 0.7em; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 2px
+}
+#recommended .styledPanel {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #ebf2fa; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#recommended .styledPanel H4 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #7fb6cb; PADDING-BOTTOM: 5px; MARGIN: 0px -10px 8px; PADDING-TOP: 0px; BORDER-BOTTOM: #999999 1px solid
+}
+#recommended .styledPanel {
+	PADDING-BOTTOM: 6px
+}
+#recommended H4 A {
+	FONT-WEIGHT: normal; FONT-SIZE: 0.85em
+}
+#recommended .l2 {
+	BORDER-RIGHT: #999999 2px solid; BORDER-LEFT: #999999 2px solid
+}
+#recommended .l3 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-LEFT: #999999 1px solid
+}
+#recommended .l4 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-LEFT: #999999 1px solid
+}
+#recommended .styledPanel {
+	BORDER-RIGHT: #999999 1px solid; BORDER-LEFT: #999999 1px solid
+}
+#recommended .l1 {
+	BACKGROUND: #999999
+}
+#recommended .topCorners .l2 {
+	BACKGROUND: #7fb6cb
+}
+#recommended .topCorners .l3 {
+	BACKGROUND: #7fb6cb
+}
+#recommended .topCorners .l4 {
+	BACKGROUND: #7fb6cb
+}
+#recommended .bottomCorners .l2 {
+	BACKGROUND: #ebf2fa
+}
+#recommended .bottomCorners .l3 {
+	BACKGROUND: #ebf2fa
+}
+#recommended .bottomCorners .l4 {
+	BACKGROUND: #ebf2fa
+}
+#browseResults {
+	CLEAR: both; MARGIN: 0px -10px auto
+}
+#browseResults .styledPanel {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 5px
+}
+#browseResults .l2 {
+	BORDER-RIGHT: #cbe7f6 2px solid; BORDER-LEFT: #cbe7f6 2px solid
+}
+#browseResults .l3 {
+	BORDER-RIGHT: #cbe7f6 1px solid; BORDER-LEFT: #cbe7f6 1px solid
+}
+#browseResults .l4 {
+	BORDER-RIGHT: #cbe7f6 1px solid; BORDER-LEFT: #cbe7f6 1px solid
+}
+#browseResults .styledPanel {
+	BORDER-RIGHT: #cbe7f6 1px solid; BORDER-LEFT: #cbe7f6 1px solid
+}
+#browseResults .l1 {
+	BACKGROUND: #cbe7f6
+}
+#eyebrow {
+	FONT-SIZE: 0.7em; MARGIN: 0px 20px; PADDING-TOP: 12px
+}
+DIV#browseForm {
+	PADDING-BOTTOM: 6px; BORDER-BOTTOM: #cbe7f6 1px solid
+}
+DIV#browseForm INPUT {
+	FONT-SIZE: 0.7em
+}
+DIV#browseForm SELECT {
+	FONT-SIZE: 0.7em; MARGIN-RIGHT: 8px
+}
+#browseResults H4 {
+	MARGIN-TOP: 0px
+}
+#results TABLE {
+	CLEAR: both
+}
+#results TH  {
+	box-sizing: border-box; moz-box-sizing: border-box
+}
+#results TH {
+	PADDING-RIGHT: 0px; BORDER-TOP: #82a7d4 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #d8e8f5 1px solid
+}
+#results TH#start {
+	BORDER-LEFT: #d7e9f5 1px solid
+}
+#results TH#end {
+	BORDER-RIGHT: #5392d7 1px solid
+}
+#results TH A {
+	BORDER-RIGHT: #82a7d4 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #ffffff 1px solid; DISPLAY: block; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 70%; BACKGROUND: #d8eaf5; PADDING-BOTTOM: 3px; BORDER-LEFT: #ffffff 1px solid; WIDTH: 100%; COLOR: #00329b; PADDING-TOP: 3px; BORDER-BOTTOM: #b6d6e1 1px solid; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+#results TH A:hover {
+	COLOR: #00329b
+}
+#results TH A:visited {
+	COLOR: #00329b
+}
+#results TH A:hover {
+	BACKGROUND: #abcdeb
+}
+#results TH A.selected:hover {
+	BACKGROUND: #abcdeb
+}
+#results TH A.selected:hover {
+	COLOR: #ffffff
+}
+#results TH A.selected:visited {
+	COLOR: #ffffff
+}
+#results TH A.selected {
+	BORDER-LEFT-COLOR: #3c6593; BORDER-BOTTOM-COLOR: #c2dbef; COLOR: #ffffff; BORDER-TOP-COLOR: #3c6593; BACKGROUND-COLOR: #7fb1e2; BORDER-RIGHT-COLOR: #c2dbef
+}
+#results A P IMG {
+	MARGIN-RIGHT: 3px
+}
+#results TH A.selected IMG {
+	MARGIN-LEFT: 3px; VERTICAL-ALIGN: middle
+}
+#results TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 13px; PADDING-TOP: 12px; BORDER-BOTTOM: #bddbe5 1px solid
+}
+#results TD.selected {
+	BACKGROUND: #f2f3f3
+}
+#results TD P {
+	MARGIN-TOP: 0.1em; MARGIN-BOTTOM: 0.2em
+}
+#results TD A {
+	FONT-WEIGHT: bold
+}
+#results UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 2px 0px; PADDING-TOP: 0px
+}
+#results P#criteria {
+	BORDER-BOTTOM: #cbe7f6 1px solid
+}
+#results P#position {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; MARGIN: 0px; PADDING-TOP: 1em
+}
+#results P#criteria {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; MARGIN: 0px; PADDING-TOP: 1em
+}
+#results P#position SPAN {
+	MARGIN: 0px 0px 0px 30px
+}
+DIV#advancedSearch {
+	BORDER-RIGHT: #b6d6e1 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #b6d6e1 1px solid; PADDING-LEFT: 20px; PADDING-BOTTOM: 14px; MARGIN: 7px 0px 39px; BORDER-LEFT: #b6d6e1 1px solid; PADDING-TOP: 12px; BORDER-BOTTOM: #b6d6e1 1px solid; BACKGROUND-COLOR: #eef6fb
+}
+DIV#advancedSearch TD {
+	PADDING-RIGHT: 18px; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+DIV#advancedSearch .textinput {
+	FONT-SIZE: 1em; WIDTH: 25em
+}
+DIV#advancedSearch SELECT {
+	FONT-SIZE: 1em; WIDTH: 25em
+}
+DIV#advancedSearch .searchBtn {
+	MARGIN: -4px 0px 10px; WIDTH: 60px
+}
+DIV#advancedSearch SELECT.resultsNumber {
+	WIDTH: 90px
+}
+P#advSearchDesc {
+	MARGIN: 0px 0px 16px
+}
+#onthispage {
+	WIDTH: 480px
+}
+#onthispage DIV {
+	BACKGROUND-POSITION: left 50%; PADDING-LEFT: 20px; FONT-SIZE: 95%; FLOAT: left; BACKGROUND-IMAGE: url(../../img/arrow_down.gif); PADDING-BOTTOM: 3px; VERTICAL-ALIGN: top; WIDTH: 220px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Verdana,Arial
+}
+#detailsThankyouIntro {
+	MARGIN-BOTTOM: 16px
+}
+#detailsThankyouIntro #logo {
+	FLOAT: right; MARGIN-LEFT: 18px; WIDTH: 168px; HEIGHT: 97px
+}
+#detailsThankyouIntro #logo IMG {
+	FLOAT: left
+}
+#detailsThankyouIntro #logo H4 {
+	FONT-SIZE: 0.7em; MARGIN: 15px 0px 4px
+}
+#detailsThankyouIntro #logo P {
+	FONT-SIZE: 0.6em; MARGIN: 0px
+}
+#thankyou UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-TOP: 0px
+}
+#relatedDownloads UL LI {
+	FONT-SIZE: 1em
+}
+ HTML #detailsThankyouIntro #logo IMG {
+	MARGIN: 0px -3px
+}
+#detailsThankyouIntro H1 {
+	MARGIN-BOTTOM: 5px
+}
+#detailsThankyouIntro H2 {
+	MARGIN-TOP: 0em; FONT-WEIGHT: normal; MARGIN-BOTTOM: 25px
+}
+#quickDescription {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#genuineValidated #quickInfoHeader {
+	BACKGROUND: #003399; COLOR: #ffffcc
+}
+#genuineValidated .topCorners  {
+	BACKGROUND: #003399; COLOR: #ffffcc
+}
+#genuineValidated #quickInfoContents {
+	BACKGROUND: #fcf4b5
+}
+#genuineValidated .bottomCorners  {
+	BACKGROUND: #fcf4b5
+}
+#genuineNotValidated #quickInfoHeader {
+	BACKGROUND: #deb031; COLOR: #ffffcc
+}
+#genuineNotValidated .topCorners  {
+	BACKGROUND: #deb031; COLOR: #ffffcc
+}
+#genuineNotValidated #quickInfoContents {
+	BACKGROUND: #fcf4b5
+}
+#genuineNotValidated .bottomCorners  {
+	BACKGROUND: #fcf4b5
+}
+#regsysNotRegistered #quickInfoHeader {
+	BACKGROUND: #75a569; COLOR: #ffffff
+}
+#regsysNotRegistered .topCorners  {
+	BACKGROUND: #75a569; COLOR: #ffffff
+}
+#regsysNotRegistered #quickInfoContents {
+	BACKGROUND: #e8f7e0
+}
+#regsysNotRegistered .bottomCorners  {
+	BACKGROUND: #e8f7e0
+}
+#regsysRegistered #quickInfoHeader {
+	BACKGROUND: #308216; COLOR: #ffffff
+}
+#regsysRegistered .topCorners  {
+	BACKGROUND: #308216; COLOR: #ffffff
+}
+#regsysRegistered #quickInfoContents {
+	BACKGROUND: #e8f7e0
+}
+#regsysRegistered .bottomCorners  {
+	BACKGROUND: #e8f7e0
+}
+#unRestricted #quickInfoHeader {
+	BACKGROUND: #82ade2; COLOR: #e5eff8
+}
+#unRestricted .topCorners  {
+	BACKGROUND: #82ade2; COLOR: #e5eff8
+}
+#unRestricted #quickInfoContents {
+	BACKGROUND: #e5eff8
+}
+#unRestricted .bottomCorners  {
+	BACKGROUND: #e5eff8
+}
+#genuineValidated {
+	CLEAR: both; DISPLAY: block; MARGIN: 0px -10px; WIDTH: auto; PADDING-TOP: 20px
+}
+#genuineNotValidated {
+	CLEAR: both; DISPLAY: block; MARGIN: 0px -10px; WIDTH: auto; PADDING-TOP: 20px
+}
+#regsysNotRegistered {
+	CLEAR: both; DISPLAY: block; MARGIN: 0px -10px; WIDTH: auto; PADDING-TOP: 20px
+}
+#regsysRegistered {
+	CLEAR: both; DISPLAY: block; MARGIN: 0px -10px; WIDTH: auto; PADDING-TOP: 20px
+}
+#unRestricted {
+	CLEAR: both; DISPLAY: block; MARGIN: 0px -10px; WIDTH: auto; PADDING-TOP: 20px
+}
+#genuineValidated HR {
+	BORDER-BOTTOM: #efdf60 1px solid
+}
+#genuineNotValidated HR {
+	BORDER-BOTTOM: #efdf60 1px solid
+}
+#regsysNotRegistered HR {
+	BORDER-BOTTOM: #8dc061 1px solid
+}
+#regsysRegistered HR {
+	BORDER-BOTTOM: #8dc061 1px solid
+}
+#quickInfoContents HR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UNKNOWN {
+	MARGIN: 5px 0px
+}
+#quickInfoContents {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0.1em; MARGIN: 0px; PADDING-TOP: 1px
+}
+#quickInfoHeader {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0.1em; MARGIN: 0px; PADDING-TOP: 1px
+}
+#quickInfoHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.7em; HEIGHT: 22px
+}
+#quickInfoHeader FORM {
+	CLEAR: none; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#quickInfoHeader INPUT {
+	FONT-WEIGHT: bold; FONT-SIZE: 1em; POSITION: relative; TOP: -2px
+}
+#multiFileList BUTTON {
+	FONT-WEIGHT: bold; FONT-SIZE: 1em; POSITION: relative; TOP: -2px
+}
+#multiFileList BUTTON {
+	TOP: 0px
+}
+#quickInfoHeader DIV {
+	DISPLAY: inline; MARGIN-LEFT: 5px
+}
+#quickInfoHeader A IMG {
+	VERTICAL-ALIGN: bottom
+}
+#quickInfoHeader A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+#quickInfoHeader A:visited {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+#quickInfoHeader A:hover {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px
+}
+#quickInfoContents TABLE {
+	MARGIN-LEFT: 20px; WIDTH: 100%
+}
+ HTML #quickInfoContents TABLE {
+	TABLE-LAYOUT: fixed; WIDTH: auto
+}
+DIV#quickInfoContents TD {
+	FONT-SIZE: 0.7em
+}
+TD.quickInfoValue {
+	MARGIN-BOTTOM: 0px
+}
+DIV#quickInfoContents P {
+	PADDING-BOTTOM: 10px
+}
+#quickInfoContents TD.quickInfoName {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+#quickInfoContents TD.quickInfoName {
+	PADDING-RIGHT: 30px; WIDTH: 200px
+}
+DIV#otherDownloadInfo {
+	MARGIN: 0px 0px 12px
+}
+DIV#otherDownloadInfo {
+	
+}
+TD#detailsDisclaimer {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+DIV.detailsInfoLabel {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+DIV.downloadInfo {
+	FONT-SIZE: 0.7em; MARGIN: 0px 0px 10px 20px
+}
+DIV.detailsContent {
+	FONT-SIZE: 0.7em; LINE-HEIGHT: 130%
+}
+DIV#details P.topOfPage {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; BORDER-BOTTOM: #e2e2e4 1px solid
+}
+DIV#affinity DIV {
+	FONT-SIZE: 0.7em
+}
+TABLE#multiFileList {
+	MARGIN: 15px 0px; WIDTH: 100%; BORDER-COLLAPSE: collapse
+}
+ HTML TABLE#multiFileList {
+	TABLE-LAYOUT: fixed; WIDTH: auto
+}
+TABLE#multiFileList TH {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 7px; PADDING-TOP: 7px; TEXT-ALIGN: left
+}
+TABLE#multiFileList TD {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+TABLE#multiFileList .buttonCell {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; WIDTH: 100px
+}
+TABLE#multiFileList TH#sizeCol {
+	WHITE-SPACE: nowrap
+}
+TABLE#multiFileList TH#multiFileNameCol {
+	WIDTH: 50%
+}
+DIV#relatedLinks {
+	MARGIN: -5px 0px 15px
+}
+DIV#gaTalkBack {
+	PADDING-RIGHT: 0px; BORDER-TOP: #d19638 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 27px 0px 30px; OVERFLOW: hidden; PADDING-TOP: 0px; BORDER-BOTTOM: #d19638 1px solid
+}
+ HTML DIV#gaTalkBack {
+	WIDTH: 100%
+}
+#gaTalkBack P {
+	MARGIN: 5px 0px 15px
+}
+DIV#gaTalkBack DIV#color {
+	FONT-SIZE: 1px; BACKGROUND: #f8df75; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#DC9B3C', EndColorStr='#F8DF75'); MARGIN: 0px 0px 11px; HEIGHT: 7px
+}
+DIV#gaTalkBack DIV#gabody {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#gaTalkBack H4 {
+	MARGIN: 0px; COLOR: #c89225
+}
+DIV#gaAd {
+	FLOAT: right; MARGIN: 0px 0px 15px; WIDTH: 165px; TEXT-ALIGN: center
+}
+DIV#msnAd {
+	FLOAT: right; MARGIN: 0px 0px 15px; WIDTH: 165px; TEXT-ALIGN: center
+}
+DIV#notifications {
+	CLEAR: right; BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 0.85em; FLOAT: right; MARGIN-LEFT: 15px; BORDER-LEFT: #999999 1px solid; WIDTH: 165px; BORDER-BOTTOM: #999999 1px solid
+}
+DIV#notifications  {
+	MARGIN: 0px 0px 2px
+}
+DIV#notifications DIV {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 3px; PADDING-TOP: 0px
+}
+DIV#notifications A {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em
+}
+TABLE#wwList TD {
+	PADDING-RIGHT: 10px; FONT-SIZE: 0.7em; VERTICAL-ALIGN: top; WIDTH: 30%
+}
+DIV#products #links {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em
+}
+DIV#products LI {
+	FONT-SIZE: 0.7em; COLOR: #999999; LINE-HEIGHT: 0.7em
+}
+DIV#products P {
+	MARGIN: 0px 0px 10px
+}
+DIV#products H1 {
+	MARGIN: 0px
+}
+DIV#products H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; BORDER-BOTTOM: #e2e2e4 1px solid
+}

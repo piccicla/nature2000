@@ -1,0 +1,745 @@
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe.config
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.exe
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.pdb
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\ResolveAssemblyReference.cache
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.AboutBox.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.AiutoQs.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Password.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.IMPOSTAZIONI.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Info.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.MainChild.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.MainForm.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Properties.Resources.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEcs.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEi.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaPs.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaPaa.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro3Bis.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.MisureConservazione.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro10.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro9.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro4.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro5.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro6.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro7.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro8.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Spiegazione_Storie_Villa.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.SplashCollegamentoDati.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazioneNegativa2.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazionePositiva2.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazioneNegativa.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro1.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro2.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro3.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazionePositiva.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Splash.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.ValutazionePositiva3.resources
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.csproj.GenerateResource.Cache
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.pdb
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\incidenza\incidenza.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\testo introduttivo.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1313712.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314609.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314610.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314611.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314723.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315313.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315407.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315408.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315421.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315503.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315504.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315602.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315714.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315715.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315716.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315717.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315719.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315720.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315805.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315806.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315922.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1316001.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1316118.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1320425.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1321205.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1321313.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322122.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322216.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322217.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322219.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322223.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322304.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322326.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323014.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323021.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323112.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323115.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323201.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323202.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323203.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323920.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324007.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324011.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324818.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324896.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324908.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324909.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324910.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1325624.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330213.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330223.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330620.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330893.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330905.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330925.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331012.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331019.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331104.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331501.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331606.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331615.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331718.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331721.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331810.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331811.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331909.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332603.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332614.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332622.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332717.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333307.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333308.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333316.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342806.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342813.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342824.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342907.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342908.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343412.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343415.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343419.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343425.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343502.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343511.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343518.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343520.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343526.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344210.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344216.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344321.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344323.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344422.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345005.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345101.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345103.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345104.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345109.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345114.doc
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\testi\info.rtf
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\database\misure.mdb
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\database\red_list.mdb
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\database\specie.mdb
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe.config
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe.manifest
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.application
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.pdb
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.TrustInfo.xml
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.exe.manifest
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.application
+F:\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe.config
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.AboutBox.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.AiutoQs.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Password.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.IMPOSTAZIONI.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Info.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.MainChild.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.MainForm.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Properties.Resources.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaEcs.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaEi.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaPs.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaPaa.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro3Bis.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.MisureConservazione.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro10.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro9.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro4.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro5.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro6.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro7.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro8.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Spiegazione_Storie_Villa.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.SplashCollegamentoDati.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazioneNegativa2.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazionePositiva2.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazioneNegativa.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro1.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro2.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro3.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazionePositiva.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Splash.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.ValutazionePositiva3.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.csproj.GenerateResource.Cache
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\incidenza\incidenza.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\testo introduttivo.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1313712.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314609.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314610.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314611.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314723.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315313.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315407.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315408.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315421.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315503.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315504.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315602.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315714.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315715.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315716.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315717.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315719.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315720.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315805.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315806.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315922.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1316001.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1316118.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1320425.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1321205.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1321313.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322122.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322216.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322217.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322219.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322223.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322304.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322326.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323014.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323021.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323112.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323115.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323201.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323202.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323203.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323920.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324007.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324011.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324818.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324896.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324908.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324909.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324910.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1325624.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330213.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330223.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330620.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330893.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330905.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330925.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331012.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331019.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331104.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331501.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331606.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331615.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331718.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331721.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331810.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331811.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331909.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332603.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332614.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332622.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332717.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1333307.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1333308.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1333316.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342806.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342813.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342824.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342907.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342908.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343412.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343415.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343419.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343425.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343502.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343511.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343518.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343520.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343526.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344210.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344216.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344321.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344323.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344422.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345005.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345101.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345103.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345104.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345109.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345114.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\testi\info.rtf
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\database\misure.mdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\database\red_list.mdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\database\specie.mdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe.config
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.TrustInfo.xml
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.AboutBox.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.AiutoQs.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Password.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.IMPOSTAZIONI.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Info.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.MainChild.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.MainForm.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Properties.Resources.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEcs.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEi.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaPs.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaPaa.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro3Bis.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.MisureConservazione.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro10.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro9.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro4.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro5.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro6.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro7.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro8.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Spiegazione_Storie_Villa.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.SplashCollegamentoDati.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazioneNegativa2.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazionePositiva2.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazioneNegativa.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro1.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro2.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro3.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazionePositiva.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Splash.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.ValutazionePositiva3.resources
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.csproj.GenerateResource.Cache
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\incidenza\incidenza.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\testo introduttivo.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1313712.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314609.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314610.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314611.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314723.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315313.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315407.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315408.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315421.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315503.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315504.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315602.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315714.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315715.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315716.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315717.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315719.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315720.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315805.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315806.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315922.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1316001.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1316118.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1320425.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1321205.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1321313.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322122.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322216.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322217.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322219.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322223.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322304.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322326.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323014.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323021.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323112.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323115.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323201.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323202.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323203.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323920.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324007.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324011.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324818.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324896.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324908.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324909.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324910.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1325624.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330213.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330223.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330620.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330893.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330905.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330925.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331012.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331019.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331104.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331501.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331606.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331615.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331718.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331721.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331810.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331811.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331909.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332603.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332614.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332622.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332717.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333307.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333308.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333316.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342806.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342813.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342824.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342907.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342908.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343412.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343415.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343419.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343425.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343502.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343511.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343518.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343520.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343526.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344210.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344216.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344321.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344323.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344422.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345005.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345101.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345103.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345104.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345109.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345114.doc
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\testi\info.rtf
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\database\misure.mdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\database\red_list.mdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\database\specie.mdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.TrustInfo.xml
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\nuovo lavoro universita\sistemaesperto280507\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe.config
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\incidenza\incidenza.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\testo introduttivo.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1313712.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314609.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314610.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314611.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1314723.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315313.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315407.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315408.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315421.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315503.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315504.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315602.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315714.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315715.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315716.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315717.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315719.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315720.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315805.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315806.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1315922.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1316001.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT131\IT1316118.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1320425.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1321205.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1321313.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322122.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322216.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322217.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322219.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322223.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322304.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1322326.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323014.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323021.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323112.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323115.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323201.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323202.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323203.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1323920.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324007.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324011.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324818.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324896.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324908.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324909.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1324910.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT132\IT1325624.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330213.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330223.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330620.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330893.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330905.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1330925.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331012.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331019.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331104.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331501.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331606.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331615.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331718.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331721.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331810.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331811.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1331909.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332603.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332614.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332622.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1332717.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333307.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333308.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT133\IT1333316.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342806.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342813.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342824.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342907.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1342908.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343412.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343415.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343419.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343425.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343502.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343511.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343518.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343520.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1343526.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344210.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344216.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344321.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344323.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1344422.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345005.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345101.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345103.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345104.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345109.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\misureconservazione\IT134\IT1345114.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\testi\info.rtf
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\database\misure.mdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\database\red_list.mdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\database\specie.mdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe.config
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Release\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.AboutBox.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.AiutoQs.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Password.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.IMPOSTAZIONI.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Info.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.MainChild.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.MainForm.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Properties.Resources.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEcs.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEi.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaPs.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaPaa.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro3Bis.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.MisureConservazione.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro10.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro9.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro4.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro5.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro6.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro7.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro8.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Spiegazione_Storie_Villa.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.SplashCollegamentoDati.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazioneNegativa2.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazionePositiva2.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazioneNegativa.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro1.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro2.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.Quadro3.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.ValutazionePositiva.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Splash.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.ValutazionePositiva3.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.csproj.GenerateResource.Cache
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.TrustInfo.xml
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\incidenza\incidenza.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\testo introduttivo.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1313712.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314609.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314610.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314611.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1314723.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315313.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315407.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315408.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315421.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315503.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315504.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315602.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315714.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315715.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315716.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315717.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315719.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315720.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315805.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315806.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1315922.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1316001.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT131\IT1316118.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1320425.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1321205.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1321313.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322122.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322216.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322217.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322219.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322223.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322304.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1322326.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323014.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323021.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323112.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323115.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323201.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323202.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323203.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1323920.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324007.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324011.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324818.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324896.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324908.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324909.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1324910.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT132\IT1325624.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330213.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330223.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330620.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330893.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330905.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1330925.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331012.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331019.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331104.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331501.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331606.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331615.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331718.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331721.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331810.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331811.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1331909.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332603.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332614.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332622.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1332717.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1333307.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1333308.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT133\IT1333316.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342806.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342813.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342824.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342907.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1342908.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343412.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343415.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343419.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343425.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343502.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343511.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343518.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343520.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1343526.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344210.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344216.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344321.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344323.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1344422.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345005.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345101.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345103.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345104.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345109.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\misureconservazione\IT134\IT1345114.doc
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\testi\info.rtf
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\database\misure.mdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\database\red_list.mdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\database\specie.mdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.exe
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\bin\Debug\Sistema_esperto.pdb
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.AboutBox.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.AiutoQs.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Password.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.IMPOSTAZIONI.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Info.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.MainChild.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.MainForm.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Properties.Resources.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaEcs.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaEi.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaPs.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaPaa.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro3Bis.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.MisureConservazione.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro10.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro9.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro4.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro5.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro6.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro7.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro8.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Spiegazione_Storie_Villa.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.SplashCollegamentoDati.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazioneNegativa2.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazionePositiva2.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazioneNegativa.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro1.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro2.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.Quadro3.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.ValutazionePositiva.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Splash.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.ValutazionePositiva3.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.csproj.GenerateResource.Cache
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.TrustInfo.xml
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.exe.manifest
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.application
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Release\Sistema_esperto.Quadri.CalcolaEi_Backup.resources
+C:\Documents and Settings\programmazione\Desktop\LAVOROUNIVERSITA'\Sistema_esperto\SISTEMA ESPERTO 150108\sistemaesperto150108\CODICE SORGENTE\Sistema_esperto\obj\Debug\Sistema_esperto.Quadri.CalcolaEi_Backup.resources

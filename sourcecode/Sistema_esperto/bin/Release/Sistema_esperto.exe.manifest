@@ -1,0 +1,1014 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="Sistema_esperto.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="se.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sistema_esperto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Sistema_esperto.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sistema_esperto.exe" size="1044480">
+      <assemblyIdentity name="Sistema_esperto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>IxM6HuuBC91rM3Zcqwn7J43dcJ4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="bloc note.txt" size="0">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2jmj7l5rSw0yVb/vlWAYkK/YBwk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="database\misure.mdb" size="135168" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8SOqynsmyYrIqxuiLrpN48XrRMo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="database\red_list.mdb" size="262144" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XKGmU5lZf3Tap0w+02O/WHcriuk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="database\specie.mdb" size="704512" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uB66OMQ1hwmKR37D9pKWnbHf+aA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="incidenza\incidenza.doc" size="4692480">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QxjsJmsi4JAwIJPkd0O3/us2O3w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1313712.doc" size="8434688">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>99GbUfAwih6YmD7DcZgHgyj4Kw4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1314609.doc" size="5178880">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IHVW6h8R8gWCB1tiryMTHjIt8V8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1314610.doc" size="6706176">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Iwf8QuoJcNDUpOz8DqdjzTrr+u0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1314611.doc" size="5896192">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KH1/N3qCCRJz9Ixamuwd3MAw51Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1314723.doc" size="1431040">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GTDWIyBQyaQF8aM0wfvuiCHxf0w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315313.doc" size="5273088">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sqTX0qUKVCfpq+kXgGXnJIiE/OM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315407.doc" size="6967808">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>k4LEPU22vhvVs4zuMfZpVRoTycI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315408.doc" size="1236480">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>F4bcuVau14GGuThQRR95OhbqmIg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315421.doc" size="5625856">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DNBsdghbYYvpC4Ob7J4gnJALP8I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315503.doc" size="6337536">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UCw9X+MI2wvXTNc8VkJhlGJdra8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315504.doc" size="5281792">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LOvQTkjjK5izYn41G5bD8TWbRho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315602.doc" size="2090496">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fO+BszIriHXo5caXZw2XCSrLca8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315714.doc" size="3826688">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>k+esFX4TPIZ4sX4fY+cnNo6ulg4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315715.doc" size="151552">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4jQekTmI9DjmqeSw+CVTuijaJ08=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315716.doc" size="4515840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>WSgZWZvd4IPFqoZkRvXdjlhzJ+U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315717.doc" size="6117888">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>51kZA6vmVYiRv+veodw46TWlQ+k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315719.doc" size="1368064">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jZfaJ9XhMEj3QpZm2m62TUxPbqw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315720.doc" size="5101568">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b1949Mmjt2jtAG1SlElw1Kv6BSU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315805.doc" size="2595328">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aSF/lx2i0LeuDIwL2HRCPnwv+Uc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315806.doc" size="5636096">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XZS2Dx4RH/C422lOKaWHoGIL4Ak=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1315922.doc" size="1868800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MElgBsJAp1N+HIRN19w4KANU8Xo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1316001.doc" size="707072">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hQH2AL3xRUjTmujF4v3hgjfcHv0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT131\IT1316118.doc" size="1218560">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>t7MoeC7yRpgPxf9nhk3tb32aUjA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1320425.doc" size="2603008">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gVJJIj6G2q41oq7G9qlET+ZPAr8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1321205.doc" size="1711616">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SDDWRbHZiYuqNQPCIde7qEBH3FE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1321313.doc" size="589824">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b/Bg5vBLX2XNYH405UXSjLPrXCE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322122.doc" size="1100800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7SECjtYGu6nJx2SUFriW3uX0CRQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322216.doc" size="1807360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>E7oXOclZ7YOUoZma94vCH9nQpYc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322217.doc" size="1498112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ipP/4RPMZz91Xbw6znlL/8aiW7E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322219.doc" size="1448960">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xF4hmG766qBqXJ8NmcBbQr8i7s4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322223.doc" size="1462272">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xGC2uKSRJZrPBE4Opz6jju3WIiA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322304.doc" size="7672320">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CL6dw7iH7/7YH3+qd2K0o5IdCRY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1322326.doc" size="1851392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4q6MtgwCb8bBzcdilKEFKbwzKws=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323014.doc" size="1387008">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UYY1DvzXIU4OnWq5Nh2kOms4RfA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323021.doc" size="1339904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yBRmvTMvMzvF1Tio4eeR72kmzEc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323112.doc" size="8416768">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Lu8Mr/zFvSqq4tnQTYim0hqrtvc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323115.doc" size="1249792">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>H0TqlY+zugjvT1vSv5yrurWyWWs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323201.doc" size="4983296">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>G2NqsxI9EpWMK1PVyjorK4TlyI4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323202.doc" size="1039360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>oawtcFcPX5o0les50fhBV75+EX8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323203.doc" size="3224064">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gtg118B8FxkdIJVwLyXSzMc7adc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1323920.doc" size="4923904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0yIJVMMeUUHjGm0UeytQntw4ux8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324007.doc" size="1398784">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sy8AO6AQVhaqUHuh/PNZ2/Qt/tA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324011.doc" size="9009664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>EIG8lLLSH3Q58wRwNOIQcuXrsVE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324818.doc" size="5305856">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yxtfPvzwonJ6HRXpmVhqtkHlDWk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324896.doc" size="2586624">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FLGV9XgJK9Ii3ADERna3LE5g85c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324908.doc" size="137728">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>M75iTHoelEYEYghU1b8qMumALEw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324909.doc" size="3029504">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RoVX1TCsv80MPA/NJ+5QzcIqy3Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1324910.doc" size="2084352">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>AoAJPN+2KNOBF7Y6DJkmexoslnw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT132\IT1325624.doc" size="779264">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b3XHV3s+cEguugYhTxNjzOw9v0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1330213.doc" size="2483200">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5XfokywTicKFDSLwmuiGaKg6XLk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1330223.doc" size="698368">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>891zL7RWB2hnWdr9SfnEX3zMYkU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1330620.doc" size="971264">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4CNTHKDCG5z3G7f2ftVOmy+GsvY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1330893.doc" size="5722112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>FiNw5HkEKtkZHXDH2lqXHzAp6h8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1330905.doc" size="4893696">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>59hundYneyJgiaco/k9nx4Oaq84=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1330925.doc" size="1219072">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1mVMAXgVgouEeJk6iDvwPp5M9pg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331012.doc" size="5820416">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>C4F2kHZeT3nfUj6ICeShJZSHAsU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331019.doc" size="1094144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b9b9napdfyUrx7oxz9iLQAielEk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331104.doc" size="12776960">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RnxaXqlh1I7kqfyHxLfmuHjrWo4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331501.doc" size="8415744">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YJOjDWnayKphDv4sy0Uq0uTZm9s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331606.doc" size="541696">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>m+K70xGrQnIald2FFfcs5xrPrlA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331615.doc" size="3505152">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vvVbFCv34h+6kk1kp7MQVjzAnhI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331718.doc" size="5244928">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HaVJTG5pGcaHfyAcoMoGNe4aV3Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331721.doc" size="5520896">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4BugWCRGFR5iPGFOcOBIRQCJ2PY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331810.doc" size="3471360">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>kZ2KyQVXQfxJfhWMFJrSUO5JBPc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331811.doc" size="3353600">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7tK9SHOVdJNBBd5pfjdHGCZM2Cs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1331909.doc" size="1176064">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O4qBVMV7djIsfDR9e213WiB5I/o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1332603.doc" size="3368448">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>f838CJT0XRkmXA9mQNHHh7apUzM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1332614.doc" size="2434560">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/CgvhMexhSyOhLtETcdb+4HBrKU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1332622.doc" size="2853376">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>7lS3qQR0CF+bWSDeXZANdej76JY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1332717.doc" size="3750912">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tjGqJKmh2wee9v3NCpd2jhMaqr4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1333307.doc" size="2636800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KiQTQXWVW471WBNyu7L4aRTb3JY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1333308.doc" size="1557504">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qD3ATcMhrf7V1x9yRNjDcPEeCWE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT133\IT1333316.doc" size="1391104">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MV+e2XcctDBAB6/jvqbSd12bsFk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1342806.doc" size="1654784">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hVjKvTBytl7oUm34S1wJFaxnBA8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1342813.doc" size="184832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>riCXNi3B8cLmXQ4x/QNczpxTFJM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1342824.doc" size="153088">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>phXbzxj9pIW5IXPn5Zn4YHhW0ys=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1342907.doc" size="472576">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3O4Ec2RYCIdBAa+tJ6hOVgB0csE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1342908.doc" size="1604096">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TadMIWagHtpfXjR3jfXyW4k8RRo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343412.doc" size="464896">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tTKvixC+SvF2bn1FFkiNjpFjuvE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343415.doc" size="5018624">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MFcKW/7mb0cYWivXCSP7tMaCn9o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343419.doc" size="1773056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iejAnBiSY31Zh80BGdp/rh0aMfY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343425.doc" size="296960">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>2kVCMXGCKEqy4rTVCy+yxvt8ILA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343502.doc" size="1562112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NBhKZm5uAgXHmVrOPlY5JC+NeSw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343511.doc" size="3085824">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IJfNyhXiwsZhWEJ2x0NrUcNLsLU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343518.doc" size="1072128">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>O7RHydgYrCGoUX4ZK8fqz0vEKaw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343520.doc" size="1005056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/MNhh/FjfAop/mx5tdC47wsreUc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1343526.doc" size="224768">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NLG9NQHAFOnT3sU1pS2bj2rD2eo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1344210.doc" size="1825792">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>fWAGdx9/7raxfcLN0Q4nqxOqGww=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1344216.doc" size="1413120">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SJRFBIRPyBnvWDpW1DyNn6itB7Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1344321.doc" size="285184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aAXUc0SywC/GsdrRkfbKX3o+l1k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1344323.doc" size="1191936">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PKUhN2OQ8G8gVsSByrpuuX5UaGQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1344422.doc" size="1949696">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QUHhygMRo6DnsJqjinei11Cr6uU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1345005.doc" size="6384128">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>X8QiA9+xj5shezOjDumqqDTE4tw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1345101.doc" size="340480">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1RxsAGCPBvlEDFMfFyBVPyLhmJY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1345103.doc" size="386560">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3LgHpKBqy6FmIS50kB387SvWZhY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1345104.doc" size="1810432">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qOlIPJi6/eiNz7evUS+qL1dRswA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1345109.doc" size="466944">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>VD72Fdensk1KgtMPVBFHll0znso=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\IT134\IT1345114.doc" size="860672">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lZGyOUxPlXTPlBDkaeKoomzkZSw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="misureconservazione\testo introduttivo.doc" size="4232704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nWV+1FfCBezyfSb8UYk8aLeUKrs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="prova.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5J5IhO9dVlaurKQ7onOGtSqz9Sc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="se.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>5J5IhO9dVlaurKQ7onOGtSqz9Sc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sistema_esperto.exe.config" size="900">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qyHtzJVuoHvFqEGGr+yrOkl0jGo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="testi\info.rtf" size="19391">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mkAx+5MUNU5scOOL0YCdXTvrgEc=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBoxParametro2EiInfo.Text" xml:space="preserve">
+    <value>(*) "presumibilmente" significa che (tenuto conto dei parametri ambientali rilevati precedentemente all’intervento ; tenuto conto del consumo d’acqua e/o delle emissioni derivanti dall’opera in esercizio) appare altamente probabile il verificarsi di una fra le situazioni delineate per i casi  1-2-3
+</value>
+  </data>
+  <data name="textBoxParametro1Ei.Text" xml:space="preserve">
+    <value>Parametro 1
+Aumento indotto (prevedibile a seguito dell’intervento) del traffico motorizzato in aree sensibili del SIC (aree riproduttive; aree focali ecc.). I dati sono espressi come % del traffico stimato prima del piano/intervento oggetto della valutazione</value>
+  </data>
+  <data name="textBoxParametro2Ei.Text" xml:space="preserve">
+    <value>Parametro 2. 
+Diminuzione prevedibile provocata dall’intervento (direttamente o per via cumulativa)  nel livello idrico o peggiormento della qualità delle acque, dell’aria, del suolo in aree focali del SIC o in elementi della Rete ecologica . 
+Caso 1: si verifica una delle cinque situazioni qui sotto contrassegnate con le lettere a-b-c-d-e. L’intervento provoca (direttamente o per via cumulativa) presumibilmente* a) una carenza idrica nei corsi o nelle raccolte d’acqua d’acqua tale da determinare frequentemente (es.: 2 anni su 5) una diminuzione del successo riproduttivo di specie di interesse comunitario legate all’acqua  ; b)  il superamento per uno o più parametri delle soglie stabilite  per acque a Salmonidi o a Ciprinidi previste dalla direttiva 2006/44 CE; c) uno slittamento di classe nei valori L.I.M. preesistenti (tab. 7 dell’allegato 1 del D.legs 258/2000) oppure uno slittamento di classe IBE; d) un peggioramento della qualità dell’aria rilevabile con l’indice lichenico o con indici di efficienza fotosintetica o con analisi dei parametri chimici utilizzati nelle normative vigenti; e) un peggioramento della qualità dei suoli rilevabile con l’indice QBSar.
+Caso 2: si verifica una delle due situazioni qui sotto contrassegnate con le lettere a-b. L’intervento provoca presumibilmente* a) una carenza idrica nei corsi o nelle raccolte d’acqua d’acqua tale da determinare saltuariamente (es.: 1 anno su 5) una diminuzione del successo riproduttivo di specie di interesse comunitario legate all’acqua ; b)  il raggiungimento per 3 o più parametri delle soglie stabilite  per acque a Salmonidi o a Ciprinidi nella tab. 7 dell’allegato 1 del  nella direttiva 2006/44 CE; 
+Caso 3. si verifica quando l’intervento (anche per via cumulativa)  provoca presumibilmente* il raggiungimento per 1-2 parametri delle soglie stabilite  per acque a Salmonidi o a Ciprinidi nella tab. 7 dell’allegato 1 del  nella direttiva 2006/44 CE; 
+Caso 4. Si verifica quando l’intervento non influisce sulla qualità dell’acqua, dell’aria o del suolo. 
+
+</value>
+  </data>
+  <data name="textBoxParametro3Ei.Text" xml:space="preserve">
+    <value>Parametro 3
+Effetto edge (margine). Distanza in metri dell’intervento (o da aspetti indotti dall’intervento, come la costruzione di nuove strade o l’allargamento delle preesistenti) dai confini del SIC (se l’intervento è esterno al SIC) ; oppure dai confini di aree interpretabili come corridoi o  stepping stones  (per interventi esterni o interni al SIC)</value>
+  </data>
+  <data name="textBoxAvvertimento3Ecs.Text" xml:space="preserve">
+    <value>***(oppure interruzione del corridoio per costruzione di nuova strada o altre nuove opere senza  efficaci misure di mitigazione). Consultare la carta della rete ecologica Natura 2000 della Regione Liguria</value>
+  </data>
+  <data name="textBoxParametro2Ecs.Text" xml:space="preserve">
+    <value>Parametro 2
+Il piano/intervento porta un’artificializzazione cumulativa del greto o sponde di corsi d’acqua interpretabili come corridoi per una percentuale della lunghezza** del corso d’acqua pari a:</value>
+  </data>
+  <data name="textBoxParametro3Ecs.Text" xml:space="preserve">
+    <value>Parametro 3
+Il piano/intervento porta la profondità del buffer ripariale  di corsi d’acqua interpretabili come corridoi al di sotto dei 30 metri  per una percentuale della lunghezza** del corso d’acqua pari a:</value>
+  </data>
+  <data name="textBoxParametro11Ps.Text" xml:space="preserve">
+    <value>Caso relativo alle specie target terrrestri: 
+il territorio complessivo di idoneità ecologica per la specie target presenta all’interno del SIC un numero di ampie aree non frammentate di superficie pari a (vedi nota asteriscata) : 
+*dimensione indicative delle aree: 55 ettari per mammiferi, uccelli e rettili; 1 ettaro per gli insetti e per specie di margine. La superficie dell’area di idoneità ecologica per le specie di margine viene calcolata come superficie della striscia ecotonale che comprenda porzioni idonee dei due diversi comparti ecologici frequentati dalla specie. Le dimensioni della aree sono calcolabili dalla carta degli habitat sulla base delle esigenze ecologiche delle singole specie </value>
+  </data>
+  <data name="textBoxParametro21Ps.Text" xml:space="preserve">
+    <value>Caso relativo alle specie target legate a corsi d’acqua (inclusa Rana italica):
+la profondità del buffer ripariale (arbustivo o boschivo) di corsi d’acqua ospitanti specie target è, per il 75% della lunghezza del torrente*, è pari a metri: 
+* la lunghezza del torrente è misurata solo per il tratto presente nel SIC a cui si aggiungono i tratti della rete ecologica eventualmente connessi.  La profondità del buffer ripariale dei corsi d’acqua interni al SIC è stimabile attraverso la Carta degli habitat ; per i tratti esterni al SIC facenti parte della rete ecologica regionale occorrono verifiche sul campo anche se alcune indicazioni possono essere tratte dalla carta della connettività ecologica potenziale</value>
+  </data>
+  <data name="textBoxParametro31Ps.Text" xml:space="preserve">
+    <value>Caso relativo agli Anfibi (esclusa Rana italica):
+Il territorio di in cui sono presenti specie target colpite dall’intervento presenta un numero di siti riproduttivi* ogni 100 ettari pari a: 
+*il numero di siti può essere stimato dalla carta bio-naturalistica (aree fauna minore e stazioni di presenza) e va comunque controllato con ricerche sul campo</value>
+  </data>
+  <data name="textBoxParametro13Ps.Text" xml:space="preserve">
+    <value>Numero di corridoi e stepping stones funzionali fra gli habitat occupati dalla specie (per gli anfibi, fra siti riproduttivi) ; i corridoi, per essere funzionali, devono avere una profondità&gt;100 m ; le stepping stones,  un diametro &gt; 100 m
+</value>
+  </data>
+  <data name="textBoxParametro12Ps.Text" xml:space="preserve">
+    <value>Percentuale di habitat idoneo rispetto alla superficie del SIC relativamente a uccelli, mammiferi, rettili, anfibi (per gli anfibi, ai fini del calcolo di questo parametro, si intende come habitat idoneo quello trofico e/o i boschi idonei alla fase terrestre)
+</value>
+  </data>
+  <data name="textBoxParametro32Ps.Text" xml:space="preserve">
+    <value>Percentuale di habitat idoneo rispetto alla superficie del SIC relativamente a specie legate ai corsi d’acqua (compreso Rana italica)*
+L’habitat è idoneo solo se possiede un buffer di 30 metri in entrambe le rive. La superficie viene calcolata pertanto sulla strisca di torrente idoneo profonda 60 metri 
+</value>
+  </data>
+  <data name="misura11Paa.Text" xml:space="preserve">
+    <value>Ruolo del sito = 4, ma l’area interessata dagli interventi gioca un ruolo per la conservazione della specie comparabile a quello di numerose altre aree presenti non solo nel SIC, ma anche sull’intero territorio regionale</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAA
+        AABs////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z/
+        //9s////bP///2z///9s////AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z/
+        //9s////bP///2z///9s////bP///wAAAP//////////////////////////////////////////////
+        ////////AAAA/wAAAP9s////bP///2z///8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8AAAD/////////////////////////////////////////
+        ////////////////////////AAAA/2z///9s////bP///yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//AAAA////////////////////////////////////
+        /////////////////////////////wAAAP8AAAD/bP///2z///9s////JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8AAAD/////////////////////////
+        //8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/2z///9s////bP///2z///8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//wAAAP//////////////
+        ////////AAAA/yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//bP///2z///9s////bP///yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//AAAA////
+        //////////////////8AAAD/JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//9s////bP///2z/
+        //9s////JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8AAAD//////////////////////wAAAP8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//2z/
+        //9s////bP///2z///8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP//////////////////////AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/bP///2z///9s////AAAA/wAAAP//////////////////////////////////////////////
+        /////////////wAAAP8AAAD/AAAA////////////////////////////////////////////////////
+        /////////////wAAAP8AAAD/bP///2z///8AAAD/////////////////////////////////////////
+        /////////////////////////////wAAAP8AAAD/////////////////////////////////////////
+        /////////////////////////////wAAAP9s////bP///wAAAP8AAAD/////////////////////////
+        ////////////////////////////////////////AAAA/wAAAP//////////////////////////////
+        //////////////////////////////////8AAAD/AAAA/2z///9s////bP///wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP////////////////8AAAD/AAAA////////////////////
+        //8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP9s////bP///2z///9s////JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//AAAA/////////////////wAAAP8AAAD/////////
+        /////////////wAAAP8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//2z///9s////bP///2z/
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8AAAD/////////////////AAAA/wAA
+        AP//////////////////////AAAA/yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//bP///2z/
+        //9s////bP///yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//wAAAP//////////////
+        //8AAAD/AAAA//////////////////////8AAAD/JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //9s////bP///2z///9s////JCT//yQk//8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/////////
+        /////////////wAAAP8AAAD///////////////////////////8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/2z///9s////bP///2z///8kJP//AAAA////////////////////////////////////
+        ////////////////////////AAAA/wAAAP//////////////////////////////////////////////
+        //////////////////8AAAD/AAAA/2z///9s////bP///wAAAP//////////////////////////////
+        /////////////////////////////wAAAP8AAAD/JCT//wAAAP//////////////////////////////
+        //////////////////////////////////8AAAD/bP///2z///8AAAD/////////////////////////
+        //////////////////////////////////8AAAD/AAAA/yQk//8kJP//JCT//wAAAP//////////////
+        ////////////////////////////////////////AAAA/wAAAP9s////bP///wAAAP//////////////
+        ////////AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8kJP//JCT//yQk//8kJP//JCT//wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/bP///2z///9s////AAAA////
+        /////////////wAAAP8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//9s////bP///2z/
+        //8AAAD/////////////////AAAA/yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//2z/
+        //9s////bP///wAAAP////////////////8AAAD/JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//bP///2z///9s////AAAA/////////////////wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//9s////bP///2z///8AAAD/////////////////////////////////////////
+        /////////////////////////////wAAAP8AAAD/JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//2z///9s////bP///wAAAP//////////////////////////////
+        /////////////////////////////////////////////wAAAP8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//bP///2z///9s////AAAA/wAAAP//////////////
+        //////////////////////////////////////////////////8AAAD/AAAA/yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//9s////bP///2z///9s////AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//2z///9s////bP///2z/
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk
+        //8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//JCT//yQk//8kJP//bP///2z/
+        //9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z/
+        //9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z/
+        //9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z/
+        //9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z///9s////bP///2z/
+        //9s////bP///2z///9s////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+</root>

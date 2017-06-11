@@ -1,0 +1,814 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{196B8031-FED4-44C1-A4C0-01F69F144CF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema_esperto</RootNamespace>
+    <AssemblyName>Sistema_esperto</AssemblyName>
+    <StartupObject>Sistema_esperto.Program</StartupObject>
+    <ApplicationIcon>se.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>3EA56E27A9F3805F58EEF831515EE5F98DDA622B</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Sistema_esperto_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\a\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AiutoQs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AiutoQs.Designer.cs">
+      <DependentUpon>AiutoQs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="backups\CalcolaEi_backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="backups\CalcolaEi_backup.Designer.cs">
+      <DependentUpon>CalcolaEi_backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="misureDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>misureDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Password.Designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\CalcolaEcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\CalcolaEcs.Designer.cs">
+      <DependentUpon>CalcolaEcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\CalcolaPs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\CalcolaPs.Designer.cs">
+      <DependentUpon>CalcolaPs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\CalcolaPaa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\CalcolaPaa.Designer.cs">
+      <DependentUpon>CalcolaPaa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro3Bis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro3Bis.Designer.cs">
+      <DependentUpon>Quadro3Bis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\MisureConservazione.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\MisureConservazione.Designer.cs">
+      <DependentUpon>MisureConservazione.cs</DependentUpon>
+    </Compile>
+    <Compile Include="red_listDataSet.cs">
+      <DependentUpon>red_listDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="red_listDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>red_listDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Serializzazione\CreazioneDatiPaa.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiQ7.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiEcs.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiPs.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiQ6.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiQ8.cs" />
+    <Compile Include="Serializzazione\DatiPaa.cs" />
+    <Compile Include="Serializzazione\DatiQuadro7.cs" />
+    <Compile Include="Serializzazione\DatiEcs.cs" />
+    <Compile Include="Serializzazione\DatiEi.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiEi.cs" />
+    <Compile Include="Serializzazione\CreazioneDatiQ1.cs" />
+    <Compile Include="IMPOSTAZIONI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMPOSTAZIONI.Designer.cs">
+      <DependentUpon>IMPOSTAZIONI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info.Designer.cs">
+      <DependentUpon>Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainChild.Designer.cs">
+      <DependentUpon>MainChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Serializzazione\CreazioneDatiQ3.cs" />
+    <Compile Include="Serializzazione\DatiPs.cs" />
+    <Compile Include="Serializzazione\DatiQuadro1.cs" />
+    <Compile Include="Quadri\CalcolaEi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\CalcolaEi.Designer.cs">
+      <DependentUpon>CalcolaEi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Spiegazione_Storie-Villa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Spiegazione_Storie-Villa.Designer.cs">
+      <DependentUpon>Spiegazione_Storie-Villa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Serializzazione\DatiQuadro3.cs" />
+    <Compile Include="Serializzazione\DatiQuadro6.cs" />
+    <Compile Include="Serializzazione\DatiQuadro8.cs" />
+    <Compile Include="SplashCollegamentoDati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashCollegamentoDati.Designer.cs">
+      <DependentUpon>SplashCollegamentoDati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\ValutazioneNegativa2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\ValutazioneNegativa2.Designer.cs">
+      <DependentUpon>ValutazioneNegativa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\ValutazionePositiva2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\ValutazionePositiva2.Designer.cs">
+      <DependentUpon>ValutazionePositiva2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\ValutazioneNegativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\ValutazioneNegativa.Designer.cs">
+      <DependentUpon>ValutazioneNegativa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro1.Designer.cs">
+      <DependentUpon>Quadro1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AiutoQs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AiutoQs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="backups\CalcolaEi_backup.resx">
+      <DependentUpon>CalcolaEi_backup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Password.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMPOSTAZIONI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>IMPOSTAZIONI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainChild.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\CalcolaEcs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CalcolaEcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\CalcolaEi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CalcolaEi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\CalcolaPs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CalcolaPs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\CalcolaPaa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CalcolaPaa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro3Bis.resx">
+      <DependentUpon>Quadro3Bis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\MisureConservazione.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MisureConservazione.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro10.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro9.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro5.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro6.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro7.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro8.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Spiegazione_Storie-Villa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Spiegazione_Storie-Villa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashCollegamentoDati.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SplashCollegamentoDati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\ValutazioneNegativa2.resx">
+      <DependentUpon>ValutazioneNegativa2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\ValutazionePositiva2.resx">
+      <DependentUpon>ValutazionePositiva2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\ValutazioneNegativa.resx">
+      <DependentUpon>ValutazioneNegativa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\Quadro3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quadro3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\ValutazionePositiva.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ValutazionePositiva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quadri\ValutazionePositiva3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ValutazionePositiva3.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="misureDataSet.xsc">
+      <DependentUpon>misureDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="misureDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>misureDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="misureDataSet.xss">
+      <DependentUpon>misureDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="red_listDataSet.xsc">
+      <DependentUpon>red_listDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="red_listDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>red_listDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="red_listDataSet.xss">
+      <DependentUpon>red_listDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="specieDataSet.xsc">
+      <DependentUpon>specieDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="specieDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>specieDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="specieDataSet.xss">
+      <DependentUpon>specieDataSet.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Quadri\Quadro9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro9.Designer.cs">
+      <DependentUpon>Quadro9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro2.Designer.cs">
+      <DependentUpon>Quadro2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro3.Designer.cs">
+      <DependentUpon>Quadro3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro4.Designer.cs">
+      <DependentUpon>Quadro4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro5.Designer.cs">
+      <DependentUpon>Quadro5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro6.Designer.cs">
+      <DependentUpon>Quadro6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro7.Designer.cs">
+      <DependentUpon>Quadro7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro8.Designer.cs">
+      <DependentUpon>Quadro8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\Quadro10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\Quadro10.Designer.cs">
+      <DependentUpon>Quadro10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\ValutazionePositiva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\ValutazionePositiva.Designer.cs">
+      <DependentUpon>ValutazionePositiva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="specieDataSet.cs">
+      <DependentUpon>specieDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="specieDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>specieDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quadri\ValutazionePositiva3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quadri\ValutazionePositiva3.Designer.cs">
+      <DependentUpon>ValutazionePositiva3.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icone\documents_32.ico" />
+    <None Include="immagini\formula di storie.jpg" />
+    <Content Include="database\misure.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="database\red_list.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="incidenza\incidenza.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\testo introduttivo.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <Content Include="misureconservazione\IT131\IT1313712.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1314609.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1314610.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1314611.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1314723.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315313.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315407.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315408.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315421.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315503.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315504.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315602.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315714.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315715.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315716.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315717.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315719.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315720.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315805.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315806.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1315922.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1316001.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT131\IT1316118.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1320425.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1321205.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1321313.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322122.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322216.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322217.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322219.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322223.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322304.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1322326.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323014.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323021.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323112.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323115.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323201.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323202.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323203.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1323920.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324007.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324011.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324818.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324896.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324908.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324909.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1324910.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT132\IT1325624.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1330213.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1330223.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1330620.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1330893.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1330905.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1330925.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331012.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331019.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331104.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331501.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331606.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331615.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331718.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331721.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331810.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331811.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1331909.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1332603.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1332614.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1332622.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1332717.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1333307.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1333308.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT133\IT1333316.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1342806.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1342813.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1342824.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1342907.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1342908.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343412.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343415.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343419.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343425.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343502.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343511.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343518.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343520.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1343526.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1344210.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1344216.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1344321.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1344323.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1344422.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1345005.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1345101.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1345103.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1345104.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1345109.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="misureconservazione\IT134\IT1345114.doc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\calcoloqs.jpg" />
+    <None Include="Sistema_esperto_TemporaryKey.pfx" />
+    <Content Include="database\specie.mdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="prova.ico" />
+    <None Include="Resources\unige.jpg" />
+    <None Include="Resources\logoregione.jpg" />
+    <Content Include="se.ico" />
+    <Content Include="testi\info.rtf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bloc note.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

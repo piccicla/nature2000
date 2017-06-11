@@ -1,0 +1,877 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0041)http://support.microsoft.com/kb/301202/it -->
+<HTML lang=it><HEAD><TITLE>Verifica della versione MDAC</TITLE>
+<SCRIPT src="Verifica della versione MDAC_file/common.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT>setcookieval("gssSITE","gn");</SCRIPT>
+
+<SCRIPT type=text/javascript>SaveToFavoritesData.savingMsg='Salvataggio Preferiti';SaveToFavoritesData.connectionErrorMsg='Impossibile connettersi';SaveToFavoritesData.savedMsg='Preferiti salvati';SaveToFavoritesData.noSaveErrorMsg='Impossibile salvare';SaveToFavoritesData.surveyUrl='\x2fcommon\x2fsurvey.aspx\x3fscid\x3dsw\x3bit\x3b1167\x26surveystyle\x3dpopup\x26showpage\x3d1\x26site\x3dgn\x26siteregion\x3dit\x26url\x3d%2fdefault.aspx%2fkb%2f301202%2fit\x26p0\x3dkb\x26p1\x3dit\x26p2\x3d301202';SaveToFavoritesData.noCookieUrl='\x2fgp\x2fnocookies';</SCRIPT>
+
+<SCRIPT>var g_currentContent='kb\x3bit\x3b301202';</SCRIPT>
+
+<SCRIPT src="Verifica della versione MDAC_file/survey.js" 
+type=text/javascript></SCRIPT>
+
+<META content=nofollow,noarchive name=robots>
+<META 
+content="8309 7501 683 3843 3842 8310 7502 3844 3845 6810 1594 3847 3848 6811 1595 3850 1596 7557 " 
+name=KBParents>
+<META 
+content="8309 7501 683 3843 3842 8310 7502 3844 3845 6810 1594 3847 3848 6811 1595 3850 1596 7557 " 
+name=Search.KBParents>
+<META content="kbhowtomaster KB301202" name=Keywords>
+<META 
+content="In questo articolo sono descritti due diversi metodi per verificare quale versione di Microsoft Data Access Components (MDAC) è installata in un sistema: Utilizzo dello strumento Component Checker.Verifica delle informazioni sulla versione..." 
+name=Description>
+<META content=it name=MS.LOCALE>
+<META http-equiv=content-type content="text/html; charset=utf-8">
+<SCRIPT>var gCookieDomain='';</SCRIPT>
+<XMLREADER><LINK href="Verifica della versione MDAC_file/default.css" 
+type=text/css rel=stylesheet><LINK 
+href="Verifica della versione MDAC_file/xmlContent.css" type=text/css 
+rel=stylesheet><LINK 
+href="Verifica della versione MDAC_file/LHNSWidthChrome.css" type=text/css 
+rel=stylesheet><LINK href="Verifica della versione MDAC_file/override.css" 
+type=text/css rel=stylesheet></XMLREADER><!-- RESG: 4/11/2007 1:02:33 AM -- RESX: 1/1/0001 12:00:00 AM --><!-- (c) 2007 Microsoft Corporation. All Rights Reserved --><LINK 
+href="Verifica della versione MDAC_file/1ea11d4cS.css" type=text/css 
+rel=Stylesheet><LINK href="Verifica della versione MDAC_file/c5cf1566S.css" 
+type=text/css rel=stylesheet>
+<SCRIPT language=JavaScript>var doImage=doImage;var TType=TType;function mhHover(tbl,idx,cls){var t,d;if(document.getElementById)t=document.getElementById(tbl);else t=document.all(tbl);if(t==null)return;if(t.getElementsByTagName)d=t.getElementsByTagName("TD");else d=t.all.tags("TD");if(d==null)return;if(d.length<=idx)return;d[idx].className=cls;}function footerjs(doc){if(doImage==null){var tt=TType==null?"PV":TType;doc.write('<layer visibility="hide"><div style="display:none"><img src="http://c.microsoft.com/trans_pixel.asp?source=localhost&TYPE=' + tt + '&p=MNPGenerator&URI=%2fMNPGenerator%2fdefault.aspx%3fr%3dgn%2fit_NLN.xml&GUID=1F4FC18C-F71E-47FB-8FC9-612F8EE59C61&lc=it-it" width=0 height=0 hspace=0 vspace=0 border=0 alt=""/></div></layer>');}}msvi_qllc = "it-it";msvi_qldir = "LTR";msvi_qlhost = "http://localhost";</SCRIPT>
+<LINK href="Verifica della versione MDAC_file/ql.css" type=text/css 
+rel=stylesheet>
+<SCRIPT src="Verifica della versione MDAC_file/ql.js" 
+type=text/javascript></SCRIPT>
+
+<META content=gn name=DCSext.sup_sd>
+<META content=it name=DCSext.sup_ln>
+<META content=kb name=DCSext.sup_ct>
+<META content=it name=DCSext.sup_cln>
+<META content=301202 name=DCSext.sup_cid>
+<META content=nonconsumer name=DCSext.sup_split>
+<SCRIPT type=text/javascript>var PersonalizationInfo='a2IzMDEyMDIIaXQIVmVyaWZpY2EgZGVsbGEgdmVyc2lvbmUgTUQ_';</SCRIPT>
+
+<SCRIPT type=text/javascript>var enableSiteSurvey = true;</SCRIPT>
+
+<SCRIPT src="Verifica della versione MDAC_file/surveytrigger.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT>animationDuration = 0.5;</SCRIPT>
+
+<SCRIPT>var embedSurveyPrompt='nothing';var Exp=90;var Delay=10000;var Freq=35;var CookieDef='ST_GN_IT';var SurveyStyle='popup';var DisplayIntroPage=1;var EmailStyle=0;var EmailSurveyID='';var ReferringURL='';</SCRIPT>
+<LINK title="Cerca in Microsoft Support" 
+href="/common/opensearchdescriptor.aspx?ln=it" 
+type=application/opensearchdescription+xml rel=search>
+<META content="MSHTML 6.00.2900.3059" name=GENERATOR></HEAD>
+<BODY onload=thisLoad(); onunload=thisUnload();><A name=top></A><!--NOINDEX_START-->
+<SCRIPT type=text/javascript>if (self.name == "MNPMainFrame") top.location.href = self.location.href;</SCRIPT>
+
+<DIV id=msviMasthead>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD width="100%">
+      <TABLE height=22 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD id=msviRegionIdGraphic bgColor=#4b92d9><A 
+            href="http://support.microsoft.com/common/international.aspx"><IMG 
+            title="Opzioni lingua" height=22 alt=Italia 
+            src="Verifica della versione MDAC_file/bce1127dS.jpg" 
+          border=0></A></TD>
+          <TD id=msviRegionGradient1 
+          style="FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#4B92D9', endColorStr='#CEDFF6', gradientType='1')" 
+          width="50%"></TD>
+          <TD id=msviRegionGradient2 
+          style="FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#CEDFF6', endColorStr='#1E77D3', gradientType='1')" 
+          width="50%"></TD></TR></TBODY></TABLE></TD>
+    <TD id=msviGlobalToolbar dir=ltr noWrap align=left bgColor=#1e77d3 
+height=22>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR>
+          <TD class=gt0 id=panelTd noWrap><A 
+            href="http://www.microsoft.com/library/toolbar/3.0/sitemap/it-it.mspx">Quick 
+            Link&nbsp;</A>
+            <SCRIPT type=text/javascript>document.write('<img src="/library/mnp/2/gif/ql.gif" width="11px" height="4px" alt="">');</SCRIPT>
+
+            <DIV id=panelDiv 
+            style="Z-INDEX: 100; VISIBILITY: hidden; POSITION: absolute"></DIV></TD>
+          <TD class=gtsep>|</TD>
+          <TD class=gt0 onmouseover="this.className='gt1'" 
+          onmouseout="this.className='gt0'" noWrap><A 
+            href="http://www.microsoft.com/italy/">Home</A></TD>
+          <TD class=gtsep>|</TD>
+          <TD class=gt0 onmouseover="this.className='gt1'" 
+          onmouseout="this.className='gt0'" noWrap><A 
+            href="http://www.microsoft.com/worldwide/">Microsoft nel 
+mondo</A></TD>
+          <TD class=msviPPSpace></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD width="100%">
+      <TABLE height=42 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR vAlign=top>
+          <TD id=msviBrandBanner bgColor=#0a6cce><A 
+            href="http://www.microsoft.com/italy/"><IMG title="" height=42 
+            alt=Microsoft 
+            src="Verifica della versione MDAC_file/ms_masthead_ltr.gif" 
+            width=136 border=0></A></TD>
+          <TD 
+          style="FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#0A6CCE', endColorStr='#FFFFFF', gradientType='1')" 
+          width="100%"></TD></TR></TBODY></TABLE></TD>
+    <TD id=msviGlobalSearch bgColor=#ffffff>Cerca su Microsoft.com:<BR>
+      <FORM id=msviSearchForm action=/library/toolbar/3.0/search.aspx 
+      target=_top><INPUT type=hidden value=it-it name=View><INPUT type=hidden 
+      value=UTF-8 name=charset><NOBR>
+      <DIV style="HEIGHT: 18px"><INPUT id=msviSearchBox maxLength=255 name=qu><INPUT id=msviGoButton type=submit value=Vai></DIV></NOBR></FORM></TD></TR></TBODY></TABLE>
+<TABLE id=msviSubbanner cellSpacing=0 cellPadding=0 width="100%" bgColor=#003399 
+border=0>
+  <TBODY>
+  <TR>
+    <TD><IMG title="" height=26 alt="Supporto Tecnico Microsoft" 
+      src="Verifica della versione MDAC_file/9ec73df9S.jpg" width=467 
+    border=0></TD>
+    <TD width="100%">&nbsp;</TD></TR></TBODY></TABLE>
+<DIV id=msviLocalToolbar>
+<TABLE height=19 cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD id=msviHomePageLink noWrap><A 
+      href="http://support.microsoft.com/">Supporto Tecnico Microsoft</A></TD>
+    <TD><SPAN class=ltsep>|</SPAN></TD>
+    <TD class=lt0 onmouseover="mhHover('msviLocalToolbar', 2, 'lt1')" 
+    onmouseout="mhHover('msviLocalToolbar', 2, 'lt0')" noWrap><A 
+      href="http://support.microsoft.com/select/?target=hub">Seleziona un 
+      prodotto</A></TD>
+    <TD width="100%"></TD></TR></TBODY></TABLE></DIV></DIV>
+<TABLE dir=ltr cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR vAlign=top>
+    <TD dir=ltr width="100%"><!--NOINDEX_STOP--><XMLREADER>
+      <DIV id=contentArea>
+      <DIV id=mainRow>
+      <DIV class=primaryTable>
+      <TABLE class=primaryTable cellSpacing=0 cellPadding=0>
+        <TBODY>
+        <TR>
+          <TD class=primaryMainColumn>
+            <DIV id=mainColumn>
+            <DIV class=kb id=kb>
+            <DIV class=default id=default><!-- - -KB 3 start- - --><A 
+id=top></A>
+            <H1 class=title>Verifica della versione MDAC</H1>
+            <DIV class=appliesToLink><A 
+            href="http://support.microsoft.com/kb/301202/it#appliesto">Visualizza 
+            i prodotti ai quali l'articolo e' applicato.</A></DIV>
+            <SCRIPT>function loadTOCNode(){}</SCRIPT>
+
+            <DIV class=articleProperty>
+            <TABLE>
+              <TBODY>
+              <TR>
+                <TD>Identificativo articolo</TD>
+                <TD>:</TD>
+                <TD>301202</TD></TR>
+              <TR>
+                <TD>Ultima modifica</TD>
+                <TD>:</TD>
+                <TD>martedì 21 giugno 2005</TD></TR>
+              <TR>
+                <TD>Revisione</TD>
+                <TD>:</TD>
+                <TD>9.1</TD></TR></TBODY></TABLE></DIV>
+            <DIV class=notice>Questo articolo è stato precedentemente pubblicato 
+            con il codice di riferimento I301202</DIV>
+            <DIV class=notice></DIV>
+            <DIV class=toc id=tocDiv>
+            <H5>Su questa pagina</H5></DIV>
+            <SCRIPT type=text/javascript>
+      var sectionFilter = "type != 'notice' && type != 'securedata' && type != 'querywords'";
+      var tocArrow = "/library/images/support/kbgraphics/public/en-us/downarrow.gif";
+      var depthLimit = 10;
+      var depth3Limit = 10;
+      var depth4Limit = 5;
+      var depth5Limit = 3;
+      var tocEntryMinimum = 1;
+    </SCRIPT>
+
+            <SCRIPT src="Verifica della versione MDAC_file/kbtoc.js" 
+            type=text/javascript></SCRIPT>
+            <NOSCRIPT>
+            <STYLE>.toc {
+	DISPLAY: none
+}
+</STYLE>
+            </NOSCRIPT>
+            <DIV class=section>
+            <H2 class=subTitle id=tocHeadRef>Sommario </H2>
+            <SCRIPT type=text/javascript>loadTOCNode(1, 'summary');</SCRIPT>
+
+            <DIV class=sbody>In questo articolo sono descritti due diversi 
+            metodi per verificare quale versione di Microsoft Data Access 
+            Components (MDAC) è installata in un sistema: 
+            <TABLE class="list ul">
+              <TBODY>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Utilizzo dello strumento Component 
+              Checker.</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Verifica delle informazioni sulla versione 
+                  memorizzate nel Registro di 
+            sistema.</TD></TR></TBODY></TABLE><SPAN><A id=2></A></SPAN>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P>
+            <H3 id=tocHeadRef>Installazione e utilizzo dello strumento Component 
+            Checker</H3>
+            <SCRIPT type=text/javascript>loadTOCNode(2, 'summary');</SCRIPT>
+            Il metodo più affidabile per determinare quale versione di MDAC è 
+            stata installata consiste nel confrontare il numero di versione di 
+            ogni file DLL di MDAC con un elenco dei file DLL presenti in ogni 
+            versione di MDAC. Lo strumento Component Checker consente di 
+            effettuare questa operazione controllando i file presenti nel 
+            computer, confrontandoli con un elenco relativo a ogni versione di 
+            MDAC e riportando la corrispondenza più esatta.<BR><BR>Per 
+            installare Component Checker, attenersi alla seguente procedura: 
+            <TABLE class="list ol">
+              <TBODY>
+              <TR>
+                <TD class=number>1.</TD>
+                <TD class=text>Visitare il seguente sito Web Microsoft 
+                  (informazioni in lingua inglese):
+                  <DIV class=indent><SPAN class=ll><A 
+                  href="http://www.microsoft.com/downloads/details.aspx?FamilyId=8F0A8DF6-4A21-4B43-BF53-14332EF092C9&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=8F0A8DF6-4A21-4B43-BF53-14332EF092C9&amp;displaylang=en</A></SPAN><SPAN 
+                  class=pLink> 
+                  (http://www.microsoft.com/downloads/details.aspx?FamilyId=8F0A8DF6-4A21-4B43-BF53-14332EF092C9&amp;displaylang=en)</SPAN></DIV></TD></TR>
+              <TR>
+                <TD class=number>2.</TD>
+                <TD class=text>Fare clic sul collegamento per effettuare il 
+                  download di Component Checker. Quando richiesto, salvare il 
+                  file <B>Cc.exe</B> (un file eseguibile autoestraente) sul 
+                  desktop.</TD></TR>
+              <TR>
+                <TD class=number>3.</TD>
+                <TD class=text>Sul desktop fare doppio clic sul 
+                  file<B>Cc.exe</B>. In questo modo i file di Component Checker 
+                  verranno estratti e installati nel percorso predefinito, 
+                  C:\Comcheck.</TD></TR></TBODY></TABLE>Per utilizzare Component 
+            Checker e verificare la versione di MDAC in uso, attenersi alla 
+            seguente procedura: 
+            <TABLE class="list ol">
+              <TBODY>
+              <TR>
+                <TD class=number>1.</TD>
+                <TD class=text>Fare clic sul pulsante <B>Start</B> e scegliere 
+                  <B>Esegui</B>.</TD></TR>
+              <TR>
+                <TD class=number>2.</TD>
+                <TD class=text>Nella casella <B>Apri</B> digitare <SPAN 
+                  class=userInput>c:\comcheck\comcheck.exe</SPAN> , quindi 
+                  scegliere <B>OK</B>.</TD></TR>
+              <TR>
+                <TD class=number>3.</TD>
+                <TD class=text>Nella finestra di dialogo relativa alla scelta 
+                  del tipo di analisi<B></B> selezionare l'opzione relativa 
+                  all'esecuzione dell'analisi del computer e alla determinazione 
+                  automatica della versione<B></B> quindi scegliere 
+              <B>OK</B>.</TD></TR>
+              <TR>
+                <TD class=number>4.</TD>
+                <TD class=text>Verrà effettuato il tentativo di identificare 
+                  la versione di MDAC installata nel computer mediante la 
+                  scansione di tutti i file MDAC di base e delle impostazioni 
+                  del Registro di sistema. Sono necessari alcuni minuti per il 
+                  completamento di questa operazione. Una volta terminata la 
+                  scansione, verrà visualizzato un messaggio analogo al 
+                  seguente: <PRE class=in_text>La versione di MDAC corrispondente a quella installata nel computer è "XXXX".
+					</PRE></TD></TR>
+              <TR>
+                <TD class=number>5.</TD>
+                <TD class=text>Scegliere <B>OK</B>.</TD></TR>
+              <TR>
+                <TD class=number>6.</TD>
+                <TD class=text>Verrà visualizzato un riepilogo dei file e 
+                  delle impostazioni inclusi nella scansione. È possibile 
+                  ignorare gli errori Dir, FileDescription e 
+              FileSize.</TD></TR></TBODY></TABLE><SPAN><A id=3></A></SPAN>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P>
+            <H3 id=tocHeadRef>Controllo delle informazioni sulla versione 
+            memorizzate nel Registro di sistema</H3>
+            <SCRIPT type=text/javascript>loadTOCNode(2, 'summary');</SCRIPT>
+            Sebbene non rappresenti il metodo più sicuro per controllare la 
+            versione di MDAC installata, il controllo delle informazioni sulla 
+            versione memorizzate nel Registro di sistema è un metodo semplice 
+            (nel caso in cui non si siano verificati problemi relativi a 
+            MDAC).<BR><BR>Le informazioni sulla versione sono contenute nella 
+            seguente chiave del Registro di sistema: 
+            <DIV 
+            class=indent><B>HKEY_LOCAL_MACHINE\Software\Microsoft\DataAccess\FullInstallVer 
+            </B></DIV>Per controllare il Registro di sistema, attenersi alla 
+            seguente procedura: 
+            <TABLE class="list ol">
+              <TBODY>
+              <TR>
+                <TD class=number>1.</TD>
+                <TD class=text>Fare clic sul pulsante <B>Start</B> e scegliere 
+                  <B>Esegui</B>.</TD></TR>
+              <TR>
+                <TD class=number>2.</TD>
+                <TD class=text>Nella casella <B>Apri</B> digitare <SPAN 
+                  class=userInput>regedit</SPAN>, quindi scegliere <B>OK</B> per 
+                  avviare l'editor del Registro di sistema.</TD></TR>
+              <TR>
+                <TD class=number>3.</TD>
+                <TD class=text>Nel riquadro di spostamento passare alla 
+                  seguente chiave del Registro di sistema:
+                  <DIV 
+                  class=indent><B>HKEY_LOCAL_MACHINE\Software\Microsoft\DataAccess 
+                  </B></DIV></TD></TR>
+              <TR>
+                <TD class=number>4.</TD>
+                <TD class=text>Nel riquadro dei dettagli individuare nella 
+                  colonna <B>Nome</B><B>FullInstallVer</B> e <B>Version</B>. Per 
+                  ognuna di queste chiavi del Registro di sistema esistono 
+                  informazioni sulla versione corrispondenti nella colonna 
+                  <B>Dati</B>.</TD></TR>
+              <TR>
+                <TD class=number>5.</TD>
+                <TD class=text>Al termine scegliere <B>Esci</B> dal menu 
+                  <B>Registro di sistema</B> per chiudere l'editor del Registro 
+                  di sistema.</TD></TR></TBODY></TABLE><SPAN><A id=4></A></SPAN>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P>
+            <H3 id=tocHeadRef>Risoluzione dei problemi</H3>
+            <SCRIPT type=text/javascript>loadTOCNode(2, 'summary');</SCRIPT>
+            Le informazioni sulla versione memorizzate nel Registro di sistema 
+            potrebbero non essere corrette in relazione alle versioni di MDAC 
+            precedenti alla 2.1 se confrontate con le versioni dei file 
+            correnti. Con Windows 2000 viene installata la versione 2.5. In 
+            Windows 2000 è possibile installare solo le versioni di MDAC 
+            successive alla 2.5.<BR><BR>I download relativi a Microsoft Data 
+            Access Components sono disponibili sul seguente sito Web 
+            (informazioni in lingua inglese): 
+            <DIV class=indent><SPAN class=ll><A 
+            href="http://msdn.microsoft.com/library/default.asp?url=/downloads/list/dataaccess.asp">http://msdn.microsoft.com/library/default.asp?url=/downloads/list/dataaccess.asp</A></SPAN><SPAN 
+            class=pLink> 
+            (http://msdn.microsoft.com/library/default.asp?url=/downloads/list/dataaccess.asp)</SPAN></DIV><SPAN><A 
+            id=5></A></SPAN>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P></DIV>
+            <H2 class=subTitle id=tocHeadRef>Riferimenti </H2>
+            <SCRIPT type=text/javascript>loadTOCNode(1, 'references');</SCRIPT>
+
+            <DIV class=sbody>Per ulteriori informazioni, fare clic sui numeri 
+            degli articoli della Microsoft Knowledge Base riportati di seguito 
+            (il contenuto potrebbe essere in inglese): 
+            <DIV class=indent><A class=KBlink 
+            href="http://support.microsoft.com/kb/307255/">307255</A><SPAN 
+            class=pLink> (http://support.microsoft.com/kb/307255/)</SPAN> INFO: 
+            Component Checker: Diagnosi di problemi e riconfigurazione di 
+            installazioni MDAC </DIV>
+            <DIV class=indent><A class=KBlink 
+            href="http://support.microsoft.com/kb/231943/">231943</A><SPAN 
+            class=pLink> (http://support.microsoft.com/kb/231943/)</SPAN> 
+            Cronologia delle versioni di Microsoft Data Access Components (MDAC) 
+            </DIV>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P></DIV></DIV>
+            <DIV class=appliesTo>
+            <HR>
+            <A id=appliesto></A>
+            <H5>Le informazioni in questo articolo si applicano a</H5>
+            <TABLE class=list>
+              <TBODY>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.1</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.1 Service 
+                  Pack 2</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.1 Service 
+                  Pack 1</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.1 Service 
+                  Pack 2</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.5</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.5 Service 
+                  Pack 1</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.5 Service 
+                  Pack 2</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.6</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.6 Service 
+                  Pack 1</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.6 Service 
+                  Pack 2</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.7</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.8</TD></TR>
+              <TR>
+                <TD class=bullet>•</TD>
+                <TD class=text>Microsoft Data Access Components 2.8 Service 
+                  Pack 1</TD></TR></TBODY></TABLE></DIV>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P>
+            <DIV class=keywords>
+            <TABLE>
+              <TBODY>
+              <TR>
+                <TD class=header>
+                  <H5>Chiavi:&nbsp;</H5></TD>
+                <TD class=text>kbhowtomaster KB301202</TD></TR></TBODY></TABLE>
+            <P class=topOfPage><A 
+            href="http://support.microsoft.com/kb/301202/it#top"><IMG alt="" 
+            src="Verifica della versione MDAC_file/uparrow.gif">Torna 
+            all'inizio</A></P></DIV>
+            <DIV class="disclaimer text">LE INFORMAZIONI CONTENUTE NELLA 
+            MICROSOFT KNOWLEDGE BASE SONO FORNITE SENZA GARANZIA DI ALCUN TIPO, 
+            IMPLICITA OD ESPLICITA, COMPRESA QUELLA RIGUARDO ALLA 
+            COMMERCIALIZZAZIONE E/O COMPATIBILITA' IN IMPIEGHI PARTICOLARI. 
+            L'UTENTE SI ASSUME L'INTERA RESPONSABILITA' PER L'UTILIZZO DI QUESTE 
+            INFORMAZIONI. IN NESSUN CASO MICROSOFT CORPORATION E I SUOI 
+            FORNITORI SI RENDONO RESPONSABILI PER DANNI DIRETTI, INDIRETTI O 
+            ACCIDENTALI CHE POSSANO PROVOCARE PERDITA DI DENARO O DI DATI, ANCHE 
+            SE MICROSOFT O I SUOI FORNITORI FOSSERO STATI AVVISATI. IL DOCUMENTO 
+            PUO' ESSERE COPIATO E DISTRIBUITO ALLE SEGUENTI CONDIZIONI: 1) IL 
+            TESTO DEVE ESSERE COPIATO INTEGRALMENTE E TUTTE LE PAGINE DEVONO 
+            ESSERE INCLUSE. 2) I PROGRAMMI SE PRESENTI, DEVONO ESSERE COPIATI 
+            SENZA MODIFICHE, 3) IL DOCUMENTO DEVE ESSERE DISTRIBUITO INTERAMENTE 
+            IN OGNI SUA PARTE. 4) IL DOCUMENTO NON PUO' ESSERE DISTRIBUITO A 
+            SCOPO DI LUCRO.</DIV><!-- - -KB 3 end- - --></DIV></DIV><SPAN 
+            class=bookmark><A id=survey name=survey>&nbsp;</A></SPAN>
+            <DIV class=wp id=fmsSurvey>
+            <DIV class=fms>
+            <SCRIPT type=text/javascript>var g_asAnswers = [];var g_iAnswerPtr = 0;var currentsectionid = 1;var navindex = 1;var currentsection;var navpath = new Array();var g_SCID = 'sw;it;1361';var g_SITE = 'gn';var g_REGIONID = 'it';var g_URL = '%252fdefault.aspx%252fkb%252f301202%252fit';var g_BROWSERLANGCODE = 'it';var g_SURVEYLANGCODE = 'it';var g_SURVEYID = '1361';var g_SURVEYNAME = '';var g_asParams = ['kb','it','301202','','','','','','',''];var g_showall = 0;var g_surveystyle = 'popup';var bClickCancel = 0;var g_maxKBsInCookie = '10';var g_kbvisited = '';</SCRIPT>
+            <IFRAME id=submitframe style="DISPLAY: none" 
+            src="Verifica della versione MDAC_file/surveysubmit.html"></IFRAME>
+            <DIV class=DOCUMENT>
+            <FORM name=frmSurveyMain action=/common/survey.aspx method=post 
+            width="100%"><INPUT id=FMSACTION type=hidden value=PERSIST 
+            name=FMSACTION><INPUT id=emailaddress type=hidden 
+            name=emailaddress><INPUT id=emailsurveyurl type=hidden 
+            name=emailsurveyurl><INPUT id=sessionid type=hidden 
+            name=sessionid><INPUT id=SURVEYSCID type=hidden 
+            name=SURVEYSCID><INPUT id=SURVEYID type=hidden name=SURVEYID><INPUT 
+            id=REGIONID type=hidden name=REGIONID><INPUT id=SURVEYNAME 
+            type=hidden name=SURVEYNAME><INPUT id=SURVEYLANGCODE type=hidden 
+            name=SURVEYLANGCODE><INPUT id=BROWSERLANGCODE type=hidden 
+            name=BROWSERLANGCODE><INPUT id=SITE type=hidden name=SITE><INPUT 
+            id=FMSURL type=hidden name=FMSURL><INPUT id=PARAMS type=hidden 
+            name=PARAMS><INPUT id=PARAMLENGTH type=hidden 
+            name=PARAMLENGTH><INPUT id=SURVEYANSWERS type=hidden 
+            name=SURVEYANSWERS><INPUT id=DATALENGTH type=hidden 
+            name=DATALENGTH><INPUT id=DIRECTION type=hidden value=LTR 
+            name=DIRECTION><INPUT id=CHROMEDIRECTION type=hidden value=LTR 
+            name=CHROMEDIRECTION><INPUT id=PREVIEWLOCATION type=hidden 
+            name=PREVIEWLOCATION>
+            <DIV id=DIV_FIRST style="DISPLAY: none">
+            <TABLE class=QUESTIONCONTAINER cellSpacing=0 cellPadding=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <DIV class=QUESTIONTEXT>
+                  <H5>Commenti e suggerimenti sull'articolo</H5></DIV></TD></TR>
+              <TR>
+                <TD>
+                  <DIV class=QUESTIONINSTRUCTION></DIV></TD></TR></TBODY></TABLE>
+            <DIV class=QUESTIONCONTAINER>
+            <DIV class=QUESTIONTEXT>L'articolo si è rivelato utile per la 
+            risoluzione del problema?</DIV>
+            <DIV class=QUESTIONINSTRUCTION></DIV>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=ANSWERTEXT vAlign=top><INPUT id=8167 
+                  onclick=handleOptionalTxt(this); type=radio value=0 
+                  name=s1q7814>Sì</TD></TR>
+              <TR>
+                <TD class=ANSWERTEXT vAlign=top><INPUT id=13111 
+                  onclick=handleOptionalTxt(this); type=radio value=0 
+                  name=s1q7814>No</TD></TR>
+              <TR>
+                <TD class=ANSWERTEXT vAlign=top><INPUT id=12862 
+                  onclick=handleOptionalTxt(this); type=radio value=0 
+                  name=s1q7814>In parte</TD></TR>
+              <TR>
+                <TD class=ANSWERTEXT vAlign=top><INPUT id=13082 
+                  onclick=handleOptionalTxt(this); type=radio value=0 
+                  name=s1q7814>Non lo so ancora</TD></TR></TBODY></TABLE></DIV>
+            <DIV class=QUESTIONCONTAINER>
+            <DIV class=QUESTIONTEXT></DIV>
+            <DIV class=QUESTIONINSTRUCTION></DIV>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR class=GHR_LEGENDTEXT>
+                <TD height=20></TD>
+                <TD vAlign=top align=left colSpan=9 height=20>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
+                    <TBODY>
+                    <TR class=GHR_LEGENDTEXT>
+                      <TD width="10%">Pienamente d'accordo</TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%"></TD>
+                      <TD width="10%">Per niente 
+                d'accordo</TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=GHR_LEGENDTEXT width="25%"></TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">9</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">8</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">7</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">6</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">5</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">4</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">3</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">2</TD>
+                <TD class=GHR_LEGENDTEXT align=middle width="8%">1</TD></TR>
+              <TR class=GHR_ODDROW>
+                <TD vAlign=center>
+                  <DIV class=GHR_QUESTIONTEXT>L'articolo è di facile 
+                  comprensione</DIV></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=9 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=8 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=7 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=6 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=5 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=4 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=3 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=2 
+                  name=s1q7708_13070></TD>
+                <TD align=middle><INPUT id=13070 type=radio value=1 
+                  name=s1q7708_13070></TD></TR>
+              <TR class=GHR_EVENROW>
+                <TD vAlign=center>
+                  <DIV class=GHR_QUESTIONTEXT>L'articolo è dettagliato</DIV></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=9 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=8 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=7 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=6 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=5 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=4 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=3 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=2 
+                  name=s1q7708_13071></TD>
+                <TD align=middle><INPUT id=13071 type=radio value=1 
+                  name=s1q7708_13071></TD></TR></TBODY></TABLE></DIV>
+            <TABLE class=QUESTIONCONTAINER cellSpacing=0 cellPadding=0 
+              border=0><TBODY>
+              <TR>
+                <TD>
+                  <DIV class=QUESTIONTEXT>Commenti aggiuntivi:</DIV></TD></TR>
+              <TR>
+                <TD>
+                  <DIV class=QUESTIONINSTRUCTION></DIV></TD></TR>
+              <TR>
+                <TD><TEXTAREA class=ANSWERBOX onpaste="enforceMaxLength(this, 500)" onkeydown="enforceMaxLength(this, 500)" name=s1q7812 rows=6 cols=80></TEXTAREA></TD></TR></TBODY></TABLE>
+            <TABLE class=QUESTIONCONTAINER cellSpacing=0 cellPadding=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <DIV class=QUESTIONTEXT>Per salvaguardare la privacy, non 
+                  includere informazioni personali nei commenti.</DIV></TD></TR>
+              <TR>
+                <TD>
+                  <DIV class=QUESTIONINSTRUCTION></DIV></TD></TR></TBODY></TABLE>
+            <DIV class=NAVIGATION>
+            <TABLE width="98%">
+              <TBODY>
+              <TR>
+                <TD noWrap align=right><INPUT class=NAVBUTTON onclick=closesurvey(10);SwitchSection(); type=button value=Invia></TD></TR></TBODY></TABLE></DIV></DIV>
+            <SCRIPT type=text/javascript>var firstSection = document.getElementById("DIV_FIRST");</SCRIPT>
+
+            <DIV id=DIV_CLOSE style="DISPLAY: none">
+            <DIV class=SURVEYINTROTEXT>Grazie. I commenti e suggerimenti forniti 
+            verranno utilizzati per migliorare la qualità dei contenuti di 
+            supporto. Per ulteriori opzioni di supporto, visitare il sito Web 
+            del Supporto tecnico Microsoft.</DIV>
+            <SCRIPT type=text/javascript>var lastSection = document.getElementById("DIV_CLOSE");</SCRIPT>
+            </DIV></FORM></DIV></DIV></DIV></DIV></TD>
+          <TD class=primaryThinColumn>
+            <DIV id=thinColumn style="FLOAT: none">
+            <DIV class="wp searchThin">
+            <H1>Cerca articoli (KB)</H1>
+            <FORM name=frmsrch onsubmit=SaveLeftSrch(); 
+            action=/search/default.aspx method=get target=_top>
+            <DIV class=rightNavSearch>
+            <TABLE cellSpacing=0 cellPadding=0 width="100%">
+              <TBODY>
+              <TR>
+                <TD width="100%">
+                  <DIV class=text><INPUT class=text id=query maxLength=200 
+                  name=query></DIV></TD>
+                <TD width=5>&nbsp;</TD>
+                <TD width=20><INPUT id=wtgo 
+                  onmouseover="this.src='/library/images/support/EN-US/go_right_02-over.gif';" 
+                  onmouseout="this.src='/library/images/support/en-US/GSSSM_searchUI.gif';" 
+                  type=image height=24 alt="Run the search" width=24 
+                  src="Verifica della versione MDAC_file/GSSSM_searchUI.gif"></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=select><SELECT name=catalog>"); <OPTION value=LCID=1040 
+              selected>KB italiana</OPTION> <OPTION value=LCID=1033>KB 
+              inglese</OPTION></SELECT> </DIV><A id=L_48102 
+            title="Vai a Ricerca avanzata" onclick=logSearchUISwitch(); 
+            href="http://support.microsoft.com/search/?adv=1">Ricerca 
+            avanzata</A> <INPUT type=hidden name=spid> <INPUT type=hidden 
+            name=qryWt> <INPUT type=hidden value=r name=mode> <INPUT type=hidden 
+            value=false name=cus> </FORM>
+            <SCRIPT type=text/javascript>var curspid = '';document.frmsrch.qryWt.value='';document.frmsrch.cus.value='False';InitSrch();</SCRIPT>
+            </DIV>
+            <DIV class="wp articleTrans">
+            <H1>Traduzione articoli</H1>
+            <FORM name=frmArticleTrans onsubmit="return SwitchLanguage(29803);" 
+            action=/>
+            <DIV>
+            <TABLE cellSpacing=0 cellPadding=0>
+              <TBODY>
+              <TR>
+                <TD><SELECT name=scid><OPTION 
+                    value=kb;zh-cn;301202>Cinese</OPTION><OPTION 
+                    value=kb;zh-tw;301202>Cinese tradizionale</OPTION><OPTION 
+                    value=kb;ko;301202>Coreano</OPTION><OPTION 
+                    value=kb;fr;301202>Francese</OPTION><OPTION 
+                    value=kb;ja;301202>Giapponese</OPTION><OPTION 
+                    value=kb;en-us;301202 selected>Inglese (Stati 
+                    Uniti)</OPTION><OPTION 
+                    value=kb;nl;301202>Olandese</OPTION><OPTION 
+                    value=kb;pl;301202>Polacco</OPTION><OPTION 
+                    value=kb;pt-br;301202>Portoghese (Brasile)</OPTION><OPTION 
+                    value=kb;pt;301202>Portoghese (Portogallo)</OPTION><OPTION 
+                    value=kb;ru;301202>Russo</OPTION><OPTION 
+                    value=kb;es;301202>Spagnolo</OPTION><OPTION 
+                    value=kb;de;301202>Tedesco</OPTION></SELECT></TD>
+                <TD class=spacer>&nbsp;</TD>
+                <TD><INPUT 
+                  onmouseover="this.src='/library/images/support/IT/go_right_02-over.gif';" 
+                  onmouseout="this.src='/library/images/support/it/go_right_02.gif';" 
+                  type=image height=24 alt="Traduci l'articolo" width=24 
+                  src="Verifica della versione MDAC_file/go_right_02.gif"><A 
+                  id=KBLangListRedirect 
+                  href="http://support.microsoft.com/kb/301202/"></A></TD></TR></TBODY></TABLE></DIV></FORM></DIV>
+            <DIV class=wp id=RelatedSupportCenters>
+            <TABLE class=LCT cellSpacing=0>
+              <TBODY>
+              <TR>
+                <TD class=textColumn>
+                  <H1>Centri di supporto tecnico correlati</H1>
+                  <UL>
+                    <LI><SPAN><A 
+                    href="http://support.microsoft.com/?scid=ph;it;683">Windows 
+                    Data Access 
+            Components</A></SPAN></LI></UL></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=wp id=AdditionalResources>
+            <TABLE class=LCT cellSpacing=0>
+              <TBODY>
+              <TR>
+                <TD class=textColumn>
+                  <H1>Altre opzioni di supporto</H1>
+                  <UL>
+                    <LI id=L_48084_tr><SPAN><A id=L_48084 title=Contattaci 
+                    onclick="return MS_HandleClick(this,'29797', true);" 
+                    href="http://support.microsoft.com/contactus/?ws=support">Contattaci</A><BR>Numeri 
+                    telefonici, opzioni di supporto e prezzi, Guida in linea e 
+                    altro ancora.</SPAN>
+                    <LI id=L_48085_tr><SPAN><A id=L_48085 
+                    title="Servizio clienti" 
+                    onclick="return MS_HandleClick(this,'29797', true);" 
+                    href="http://support.microsoft.com/?scid=gp;[ln];csshome&amp;style=home">Servizio 
+                    clienti</A><BR>Per assistenza non tecnica relativa 
+                    all&amp;apos;acquisto di prodotti, sottoscrizioni, servizi 
+                    online, eventi, corsi di formazione, vendite ad aziende, 
+                    problematiche legate alla pirateria informatica e altro 
+                    ancora.</SPAN>
+                    <LI id=L_48086_tr><SPAN><A id=L_48086 title=Newsgroup 
+                    onclick="return MS_HandleClick(this,'29797', true);" 
+                    href="http://support.microsoft.com/newsgroups/">Newsgroup</A><BR>Per 
+                    inviare una domanda ad altri utenti. Gruppi di discussione e 
+                    forum su prodotti, tecnologie e servizi specifici di 
+                    Microsoft.</SPAN></LI></UL></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=wp id=SupportTools>
+            <TABLE class=LCT cellSpacing=0>
+              <TBODY>
+              <TR>
+                <TD class=textColumn>
+                  <H1>Strumenti</H1>
+                  <UL>
+                    <LI class=blankBullet id=PrintPage_tr><A 
+                    class=" imageBullet" id=bil_PrintPage 
+                    title="Stampa la pagina" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/"><IMG 
+                    id=bi_PrintPage alt="" 
+                    src="Verifica della versione MDAC_file/printicon.gif"></A>
+                    <SCRIPT>fixBulletPosition(getLatestElement());</SCRIPT>
+                    <SPAN><A id=PrintPage title="Stampa la pagina" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/">Stampa la 
+                    pagina</A></SPAN>
+                    <LI class=blankBullet id=EmailPage_tr><A 
+                    class=" imageBullet" id=bil_EmailPage 
+                    title="Manda questa pagina a un collega" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="mailto:?body=http://support.microsoft.com/default.aspx/kb/301202/it"><IMG 
+                    id=bi_EmailPage alt="" 
+                    src="Verifica della versione MDAC_file/emailicon.gif"></A>
+                    <SCRIPT>fixBulletPosition(getLatestElement());</SCRIPT>
+                    <SPAN><A id=EmailPage 
+                    title="Manda questa pagina a un collega" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="mailto:?body=http://support.microsoft.com/default.aspx/kb/301202/it">Manda 
+                    questa pagina a un collega</A></SPAN>
+                    <LI class=blankBullet id=Worldwide_tr><A 
+                    class=" imageBullet" id=bil_Worldwide 
+                    title="Microsoft nel mondo" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/common/international.aspx?rdPath=0"><IMG 
+                    id=bi_Worldwide alt="" 
+                    src="Verifica della versione MDAC_file/langicon.gif"></A>
+                    <SCRIPT>fixBulletPosition(getLatestElement());</SCRIPT>
+                    <SPAN><A id=Worldwide title="Microsoft nel mondo" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/common/international.aspx?rdPath=0">Microsoft 
+                    nel mondo</A></SPAN>
+                    <LI class=blankBullet id=SaveToMySupportFavorites_tr><A 
+                    class=" imageBullet" id=bil_SaveToMySupportFavorites 
+                    title="Salva in Preferiti del supporto tecnico" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/"><IMG 
+                    id=bi_SaveToMySupportFavorites alt="" 
+                    src="Verifica della versione MDAC_file/saveicon.gif"></A>
+                    <SCRIPT>fixBulletPosition(getLatestElement());</SCRIPT>
+                    <SPAN><A id=SaveToMySupportFavorites 
+                    title="Salva in Preferiti del supporto tecnico" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/">Salva in 
+                    Preferiti del supporto tecnico</A></SPAN>
+                    <LI class=blankBullet id=MySupportFavoritesLink_tr><A 
+                    class=" imageBullet" id=bil_MySupportFavoritesLink 
+                    title="Vai a Preferiti del supporto tecnico" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/"><IMG 
+                    id=bi_MySupportFavoritesLink alt="" 
+                    src="Verifica della versione MDAC_file/gotoicon.gif"></A>
+                    <SCRIPT>fixBulletPosition(getLatestElement());</SCRIPT>
+                    <SPAN><A id=MySupportFavoritesLink 
+                    title="Vai a Preferiti del supporto tecnico" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/">Vai a 
+                    Preferiti del supporto tecnico</A></SPAN>
+                    <LI class=blankBullet id=SendFeedback_tr><A 
+                    class=" imageBullet" id=bil_SendFeedback 
+                    title="Commenti e suggerimenti" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/" 
+                    target=_blank><IMG id=bi_SendFeedback alt="" 
+                    src="Verifica della versione MDAC_file/sendicon.gif"></A>
+                    <SCRIPT>fixBulletPosition(getLatestElement());</SCRIPT>
+                    <SPAN><A id=SendFeedback title="Commenti e suggerimenti" 
+                    onclick="return MS_HandleClick(this,'SupportTools', true);" 
+                    href="http://support.microsoft.com/gp/noscript/" 
+                    target=_blank>Commenti e suggerimenti</A></SPAN>
+                    <LI class=noBullet><SPAN>
+                    <DIV class=center><A id=idPPScarab 
+                    href="http://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=10&amp;ct=1176278553&amp;rver=4.0.1532.0&amp;wp=MCLBI&amp;wreply=https:%2F%2Fsupport.microsoft.com%2Fdefault.aspx%2Fkb%2F301202%2Fit&amp;lc=1040&amp;cb=wizid%3D6182013c-7c1f-40a3-99ae-27651c3668aa%26lcid%3D1040%26returnurl%3Dhttps%253a%252f%252fsupport.microsoft.com%252fdefault.aspx%252fkb%252f301202%252fit%26brand%3DMicrosoft&amp;id=74335"><IMG 
+                    class=PassportSignIn id=idSI 
+                    style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none" 
+                    alt="Windows Live ID" 
+                    src="Verifica della versione MDAC_file/signin.gif"></A></DIV></SPAN></LI></UL></TD></TR></TBODY></TABLE></DIV></DIV></TD></TR></TBODY></TABLE></DIV></DIV>
+      <DIV id=widthFix></DIV></DIV></XMLREADER></TD></TR></TBODY></TABLE><!--NOINDEX_START--><BR 
+style="OVERFLOW: hidden; LINE-HEIGHT: 1px" clear=all>
+<TABLE id=msviFooter cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR vAlign=bottom>
+    <TD id=msviFooter2 
+    style="FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#3F8CDA', gradientType='1')">
+      <DIV id=msviLocalFooter><NOBR><A 
+      href="http://go.microsoft.com/?linkid=317034" target=_top>Gestisci il tuo 
+      profilo</A> |</NOBR><WBR></WBR><NOBR><A 
+      href="http://support.microsoft.com/contactus/?ws=support" 
+      target=_parent>Contattaci</A></NOBR></DIV>
+      <DIV id=msviGlobalFooter><SPAN dir=ltr>©2007 Microsoft Corporation. Tutti 
+      i diritti sono riservati.&nbsp;</SPAN><NOBR><A 
+      href="http://www.microsoft.com/italy/misc/cpyright.htm" 
+      target=_parent>Note legali</A> |</NOBR><WBR></WBR><NOBR><A 
+      href="http://www.microsoft.com/library/toolbar/3.0/trademarks/it-it.mspx" 
+      target=_top>Marchi</A> |</NOBR><WBR></WBR><NOBR><A 
+      href="http://privacy.microsoft.com/it-it/default.aspx" 
+      target=_top>Informativa sulla privacy</A></NOBR></DIV></TD></TR></TBODY></TABLE>
+<SCRIPT language=javascript>        var msviFooter2;        if (document.getElementById)        {        msviFooter2 = document.getElementById("msviFooter2");        msviFooter2.style.filter = "";        }      </SCRIPT>
+
+<TABLE height=58 cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR vAlign=top>
+    <TD>
+      <DIV style="WIDTH: 200px"></DIV></TD>
+    <TD 
+    style="FILTER: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#3F8CDA', gradientType='1')" 
+    width="100%"></TD></TR></TBODY></TABLE>
+<SCRIPT language=javascript 
+src="Verifica della versione MDAC_file/wtInit.js"></SCRIPT>
+
+<SCRIPT language=javascript 
+src="Verifica della versione MDAC_file/wtCore.js"></SCRIPT>
+<NOSCRIPT><IMG id=DCSIMG height=1 alt="" 
+src="Verifica della versione MDAC_file/njs.gif" width=1></NOSCRIPT><IMG 
+id=webmetriximg alt="" 
+src="Verifica della versione MDAC_file/onepix.gif"><NOSCRIPT><IMG 
+id=StatsDotNetImgNoScript alt="" 
+src="Verifica della versione MDAC_file/default.gif"></NOSCRIPT><IMG 
+id=StatsDotNetImg alt="" src="Verifica della versione MDAC_file/onepix.gif" 
+name=StatsDotNetImg>
+<SCRIPT type=text/javascript>StatsDotNet.disabled=false;StatsDotNet.host='http\x3a\x2f\x2fsupport.microsoft.com\x2fLTS\x2fdefault.aspx';StatsDotNet.ssId='1';StatsDotNet.siteLcId='1040';StatsDotNet.SiteCulture='it';StatsDotNet.SsVersion='GSS4.3';StatsDotNet.url='\x2fdefault.aspx';StatsDotNet.ContentCulture ='it';StatsDotNet.contentType='kb';StatsDotNet.contentLn='1040';StatsDotNet.contentId='301202';StatsDotNet.eventCollectionId=1;StatsDotNet.siteBrandId='1';StatsDotNet.onUnloadTimeout=300;StatsDotNet.userAgentString='mozilla\x2f4.0 \x28compatible\x3b msie 6.0\x3b windows nt 5.1\x3b sv1\x3b .net clr 1.1.4322\x3b .net clr 2.0.50727\x29';StatsDotNet.ContentProperties='6\x3d9\x7c7\x3d9.1\x7c9\x3dkbAudDeveloper \x7c';</SCRIPT>
+
+<SCRIPT language=javascript>fireTrigger('/common/survey.aspx?scid=sw;it;1365&XSL=','gn','it','\x252fdefault.aspx\x252fkb\x252f301202\x252fit','kb','it','301202','','','','','','','');</SCRIPT>
+
+<SCRIPT type=text/javascript>function thisLoad(){fixBulletPosition(null, true);KBFeedBackShowSurvey();g_reSupportedHostnames = new RegExp("\\.microsoft\\.com$|\\.passport\\.com$|\\.live\\.com$", "i");ForeignLink_Hookup(true);MNPResizeFix();MS_WebMetrix('http\x3a\x2f\x2fc.microsoft.com\x2ftrans_pixel.asp\x3fTYPE\x3dSSPV\x26SOURCE\x3dSUPPORT\x26GUID\x3d1F4FC18C-F71E-47fb-8FC9-612F8EE59C61\x26URI\x3d\x252fgn\x252fit\x252fkb_it_301202\x26R\x3dhttp\x253a\x252f\x252fwww.google.it');StatsDotNet.LogPageOnLoad();}function thisUnload(){}</SCRIPT>
+</BODY></HTML>
